@@ -1,0 +1,603 @@
+exercise_id,exercise_name,exercise_type,body_part,exercise_image,equipment
+28183,Lever Seated Single Leg Squat Calf Raise On Leg Press Machine (Female),weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/71091101-Lever-Seated-Single-Leg-Squat-Calf-Raise-on-Leg-Press-Machine-(female)_Calves_small.png,unknown
+3022,Cable + Standing Reverse Grip One Arm Overhead Tricep Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/17271101-Cable-Standing-Reverse-Grip-One-Arm-Overhead-Tricep-Extension_Upper-Arms_small.png,cable
+27954,Dumbbell + Seated Single Arm Overhead Triceps Extension,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/61581101-Dumbbell-Seated-Single-Arm-Overhead-Triceps-Extension_Upper-Arms_small.png,dumbbell
+3033,Dumbbell + Standing Bent Over One Arm Triceps Extension,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/17401101-Dumbbell-Standing-Bent-Over-One-Arm-Triceps-Extension_Upper-Arms_small.png,dumbbell
+2984,Dumbbell + Two Arm Seated Hammer Curl On Exercise Ball,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/16811101-Dumbbell-Two-Arm-Seated-Hammer-Curl-on-Exercise-Ball_Upper-Arms_small.png,dumbbell
+27810,Cable + Seated High Pulley Overhead Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/59161101-Cable-Seated-High-Pulley-Overhead-Tricep-Extension_Upper-Arms_small.png,cable
+3825,Dumbbell + Lying One Arm Supinated Triceps Extension,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/25871101-Dumbbell-Lying-One-Arm-Supinated-Triceps-Extension-(female)_Upper-Arms_small.png,dumbbell
+2985,Dumbbell + Step Up Single Leg Balance With Bicep Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16841101-Dumbbell-Step-Up-Single-Leg-Balance-with-Bicep-Curl_Upper-Arms_small.png,dumbbell
+2751,Lever Seated Squat Calf Raise On Leg Press Machine,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13851101-Lever-Seated-Squat-Calf-Raise-on-Leg-Press-Machine_Calves_small.png,unknown
+27980,Barbell + Ez Standing Single Arm Neutral Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/62681101-EZ-Barbell-Standing-Single-Arm-Neutral-Wrist-Curl_Forearms_small.png,barbell
+2641,Dumbbell + Standing Alternate Vertical Front Raises,db_1_alt_sides,shoulders,https://apilyfta.com/static/GymvisualPNG/12301101-Dumbbell-Standing-Alternate-Vertical-Front-Raises_Shoulders_small.png,dumbbell
+1795,Dumbbell + Lying One Arm Pronated Triceps Extension,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/03441101-Dumbbell-Lying-One-Arm-Pronated-Triceps-Extension_Upper-Arms_small.png,dumbbell
+2983,Dumbbell + Standing One Arm Curl Over Incline Bench,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16801101-Dumbbell-Standing-One-Arm-Curl-Over-Incline-Bench_Upper-Arms_small.png,dumbbell
+4278,Cable + Bar High Pulley Overhead Tricep Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/30401101-Cable-Bar-High-Pulley-Overhead-Tricep-Extension-(female)_Upper-Arms_small.png,cable
+1659,Cable + Reverse-Grip Straight Back Seated High Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02081101-Cable-Reverse-grip-Straight-Back-Seated-High-Row_Back-AFIX_small.png,cable
+5755,Dumbbell + Standing Biceps Curl To Shoulder Press,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/45741101-Dumbbell-Standing-Biceps-Curl-to-Shoulder-Press-(male)_Shoulders_small.png,dumbbell
+2747,Dumbbell + Seated One Leg Calf Raise - Hammer Grip,db_1_alt_sides,calves,https://apilyfta.com/static/GymvisualPNG/13801101-Dumbbell-Seated-One-Leg-Calf-Raise---Hammer-Grip_Calves_small.png,dumbbell
+5162,Dumbbell + Seated Upright Alternate Squeeze Press,db_1_alt_sides,chest,https://apilyfta.com/static/GymvisualPNG/39461101-Dumbbell-Seated-Upright-Alternate-Squeeze-Press_Chest_small.png,dumbbell
+5193,Seated Side-To-Side Leg Raise Crunch On Floor,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/39781101-Seated-Side-to-Side-Leg-Raise-Crunch-on-Floor_Waist_small.png,unknown
+3032,Dumbbell + Standing Alternating Tricep Kickback,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/17391101-Dumbbell-Standing-Alternating-Tricep-Kickback_Upper-Arms_small.png,dumbbell
+5325,Cable + Overhead Tricep Extension Straight-Bar,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/41151101-Cable-Overhead-Tricep-Extension-Straight-Bar-(male)_Upper-Arms_small.png,cable
+27659,Weighted + Seated Single Calf Raise (Version 2),weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/54841101-Weighted-Seated-Single-Calf-Raise-(VERSION-2)_Calves_small.png,weighted
+429,Dumbbell + Standing Bent Over Two Arm Triceps Extension,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/17411101-Dumbbell-Standing-Bent-Over-Two-Arm-Triceps-Extension_Upper-Arms_small.png,dumbbell
+28180,Dumbbell + Standing Reverse Curl Rotate (Male),db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/70561101-Dumbbell-Standing-Reverse-Curl-Rotate-(male)_Forearms_small.png,dumbbell
+2748,Dumbbell + Seated One Leg Calf Raise - Palm Up,db_1_alt_sides,calves,https://apilyfta.com/static/GymvisualPNG/13811101-Dumbbell-Seated-One-Leg-Calf-Raise---Palm-up_Calves_small.png,dumbbell
+28179,Weighted + Plate Standing Hands Torsion (Male),weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/70551101-Weighted-Plate-Standing-Hands-Torsion-(male)_Forearms_small.png,weighted
+4620,Calf Raise From Deficit With Chair Supported,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/33901101-Calf-Raise-from-Deficit-with-Chair-Supported_Calves_small.png,unknown
+3030,Dumbbell + Seated Bent Over Triceps Extension,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/17371101-Dumbbell-Seated-Bent-Over-Triceps-Extension_Upper-Arms_small.png,dumbbell
+2628,Cable + Twisting Standing One Arm Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/12111101-Cable-twisting-standing-one-arm-chest-press_chest_small.png,cable
+4269,Barbell + Standing Close Grip Military Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/30311101-Barbell-Standing-Close-Grip-Military-Press-(female)_Shoulders_small.png,barbell
+5227,Dumbbell + Incline Close-Grip Press Variation,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/40151101-Dumbbell-Incline-Close-grip-Press-Variation_Upper-Arms_small.png,dumbbell
+4926,Dumbbell + Bent Over Alternate Rear Delt Fly,db_1_alt_sides,shoulders,https://apilyfta.com/static/GymvisualPNG/36961101-Dumbbell-Bent-Over-Alternate-Rear-Delt-Fly_Shoulders_small.png,dumbbell
+2774,Barbell + Palms Down Wrist Curl Over A Bench,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/14111101-Barbell-Palms-Down-Wrist-Curl-Over-A-Bench_Forearms_small.png,barbell
+28188,Lever Seated Calf Press (Version 2) (Male),weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/71761101-Lever-Seated-Calf-Press-(VERSION-2)-(male)_Calves_small.png,unknown
+28088,Weighted + Plate Standing Biceps Curl (Male),weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/66981101-Weighted-Plate-Standing-Biceps-Curl-(male)_Forearms_small.png,weighted
+3034,Dumbbell + Tricep Kickback With Stork Stance,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/17421101-Dumbbell-Tricep-Kickback-With-Stork-Stance_Upper-Arms_small.png,dumbbell
+1537,Barbell + Seated Behind Head Military Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00861101-Barbell-Seated-Behind-Head-Military-Press_Shoulders_small.png,barbell
+2796,Dumbbell + Bent Arm Pullover Hold Isometric,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/14441101-Dumbbell-Bent-Arm-Pullover-Hold_Isometric_small.png,dumbbell
+3934,Cable + Standing One Arm Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/26961101-Cable-Standing-One-Arm-Triceps-Extension-(female)_Upper-Arms_small.png,cable
+2022,Cable + Lever Single Arm Neutral Grip Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/05711101-Lever-Alternating-Narrow-Grip-Seated-Row-(plate-loaded)_Back_small.png,cable
+4918,Dumbbell + Seated Reverse Grip Biceps Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/36881101-Dumbbell-Seated-Reverse-Grip-Biceps-Curl_Forearms_small.png,dumbbell
+28226,Lever Leg Extension (Inward Toes) (Male),weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/73271101-Lever-Leg-Extension-(Inward-Toes)-(male)_Thighs_small.png,unknown
+5335,Dumbbell + Face Down Lying Shoulder Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/41251101-Dumbbell-Face-Down-Lying-Shoulder-Press-(male)_Shoulders_small.png,dumbbell
+5311,Weighted + Straight Leg Toe Touch Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/41011101-Weighted-Straight-Leg-Toe-Touch-Crunch-(male)_Waist_small.png,weighted
+4943,Dumbbell + Standing Single Leg Calf Raise,db_1_alt_sides,calves,https://apilyfta.com/static/GymvisualPNG/37131101-Dumbbell-Standing-Single-Leg-Calf-Raise_Calves_small.png,dumbbell
+3926,Barbell + Standing Front Raise Over Head,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/26881101-Barbell-Standing-Front-Raise-Over-Head-(female)_Shoulders_small.png,barbell
+2639,Cable + Standing One Arm Tricep Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/12271101-Cable-Standing-One-Arm-Tricep-Pushdown-(Overhand-Grip)_Upper-Arms_small.png,cable
+1562,Barbell + Standing Rocking Leg Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/01111101-Barbell-Standing-Rocking-Leg-Calf-Raise_Calf_small.png,barbell
+2949,Cable + Rope One Arm Hammer Preacher Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16401101-Cable-Rope-One-Arm-Hammer-Preacher-Curl_Upper-Arms_small.png,cable
+155,Dumbbell + Over Bench One Arm Neutral Wrist Curl,db_1_alt_sides,forearms,https://apilyfta.com/static/GymvisualPNG/03661101-Dumbbell-Over-Bench-One-Arm--Neutral-Wrist-Curl_Forearms_small.png,dumbbell
+3131,Extension And Inclination Neck Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/18441101-Extension-And-Inclination-Neck-Stretch_Neck_small.png,unknown
+1876,Dumbbell + Standing One Arm Reverse Curl,db_1_alt_sides,forearms,https://apilyfta.com/static/GymvisualPNG/04251101-Dumbbell-Standing-One-Arm-Reverse-Curl_Forearms_small.png,dumbbell
+2884,Barbell + Wide Stance Stiff Leg Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/15441101-Barbell-Wide-Stance-Stiff-Leg-Deadlift_Hips_small.png,barbell
+4847,Sled Machine + Sled 45 Degrees Wide Stance Leg Press,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/36171101-Sled-45-degrees-Wide-Stance-Leg-Press-(female)_Thighs_small.png,sled machine
+3999,Ankle - Dorsal Flexion - Articulations,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/27611101-Ankle---Dorsal-Flexion_Articulations_small.png,unknown
+2269,Cable + Twin Handle Parallel Grip Lat Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/08181101-twin-handle-parallel-grip-lat-pulldown_Back_small.png,cable
+3556,Dumbbell + Seated Bent Arm Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/23171101-Dumbbell-Seated-Bent-Arm-Lateral-raise_Shoulders_small.png,dumbbell
+27658,Weighted + Seated Calf Raise (Version 2),weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/54831101-Weighted-Seated-Calf-Raise-(VERSION-2)_Calves_small.png,weighted
+28263,Cable + Neutral Grip Lat Pulldown (Male),weight_reps,back,https://apilyfta.com/static/GymvisualPNG/75831101-Cable-Neutral-Grip-Lat-Pulldown-(male)_Back_small.png,cable
+28012,Barbell + Ez Standing Wrist Reverse Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/63611101-EZ-Barbell-Standing-Wrist-Reverse-Curl_Forearms_small.png,barbell
+2977,Dumbbell + One Arm Zottman Preacher Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16721101-Dumbbell-One-Arm-Zottman-Preacher-Curl_Upper-Arms_small.png,dumbbell
+2643,Dumbbell + Incline Alternate Hammer Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/12331101-Dumbbell-Incline-Alternate-Hammer-Curl_Upper-Arms_small.png,dumbbell
+28182,Lever Seated Leg Extension (Version 2),weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/71081101-Lever-Seated-Leg-Extension-(VERSION-2)_Thighs_small.png,unknown
+2872,Barbell + Romanian Deadlift From Deficit,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/15321101-Barbell-Romanian-Deadlift-From-Deficit_Thighs_small.png,barbell
+2956,Dumbbell + Alternate Seated Hammer Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16481101-Dumbbell-Alternate-Seated-Hammer-Curl_Upper-Arms_small.png,dumbbell
+1903,Barbell + Ez Reverse Grip Preacher Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/04521101-EZ-Barbell-Reverse-grip-Preacher-Curl_Forearms_small.png,barbell
+4472,Exercise Ball On The Wall Calf Raise,db_2_simultaneous,calves,https://apilyfta.com/static/GymvisualPNG/32411101-Exercise-Ball-on-the-Wall-Calf-Raise-(tennis-ball-between-ankles)_Calves_small.png,unknown
+2969,Dumbbell + One Arm Hammer Preacher Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16631101-Dumbbell-One-Arm-Hammer-Preacher-Curl_Upper-Arms_small.png,dumbbell
+425,Cable + High Pulley Overhead Tricep Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/17221101-Cable-High-Pulley-Overhead-Tricep-Extension_Upper-Arms_small.png,cable
+4912,Dumbbell + Incline Alternate Bicep Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/36821101-Dumbbell-Incline-Alternate-Bicep-Curl_Upper-Arms_small.png,dumbbell
+1819,Dumbbell + Over Bench Revers Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/03681101-Dumbbell-Over-Bench-Revers-Wrist-Curl_Forearms_small.png,dumbbell
+1644,Cable + One Arm Straight Back High Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01931101-Cable-One-Arm-Straight-Back-High-Row-(kneeling)_Back_small.png,cable
+2798,Barbell + Zercher Squat Hold Isometric,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/14461101-Barbell-Zercher-Squat-Hold_Isometric_small.png,barbell
+5229,Dumbbell + Standing Single Spider Curl,db_1_both_sides,biceps,https://apilyfta.com/static/GymvisualPNG/40171101-Dumbbell-Standing-Single-Spider-Curl_Upper-Arms_small.png,dumbbell
+3974,Cable + Lever Reverse Grip Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/27361101-Lever-Reverse-grip-Lateral-Pulldown-(plate-loaded)_Back_small.png,cable
+39,Barbell + Seated Close-Grip Concentration Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/00891101-Barbell-Seated-Close-grip-Concentration-Curl_Upper-Arms_small.png,barbell
+5801,Weighted + Seated Tuck Crunch On Floor,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/46231101-Weighted-Seated-Tuck-Crunch-on-Floor_Waist_small.png,weighted
+28013,Dumbbell + Standing Wrist Reverse Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/63621101-Dumbbell-Standing-Wrist-Reverse-Curl_Forearms_small.png,dumbbell
+27570,Roll Neck Decompress Lying On Floor,duration,neck,https://apilyfta.com/static/GymvisualPNG/53721101-Roll-Neck-Decompress-Lying-on-Floor_Neck_small.png,unknown
+1874,Dumbbell + Standing One Arm Extension,db_1_alt_sides,triceps,https://apilyfta.com/static/GymvisualPNG/04231101-Dumbbell-Standing-One-Arm-Extension_Upper-Arms_small.png,dumbbell
+1538,Barbell + Seated Bradford Rocky Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00871101-Barbell-Seated-Bradford-Rocky-Press_Shoulders_small.png,barbell
+1881,Dumbbell + Standing Triceps Extension,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/04301101-Dumbbell-Standing-Triceps-Extension_Upper-Arms_small.png,dumbbell
+1852,Dumbbell + Seated Palms Up Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/04011101-Dumbbell-Seated-Palms-Up-Wrist-Curl_Forearms_small.png,dumbbell
+5624,Weighted + Side Lying Side Neck Raise,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/44301101-Weighted-Side-Lying-Side-Neck-Raise_Neck_small.png,weighted
+330,Smith Machine + Smith Wide Grip Decline Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/13091101-Smith-Wide-Grip-Decline-Bench-Press_Chest_small.png,smith machine
+338,Cable + Wide Grip Rear Pulldown Behind Neck,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/13251101-Cable-Wide-Grip-Rear-Pulldown-Behind-Neck_Back_small.png,cable
+373,Barbell + Standing Close Grip Military Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/14561101-Barbell-Standing-Close-Grip-Military-Press_Shoulders_small.png,barbell
+1569,Barbell + Reverse Grip Bent Over Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01181101-Barbell-Reverse-Grip-Bent-over-Row_Back-FIX_small.png,barbell
+48265,Cable + Standing Alternate Chest Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/79871201-Cable-Standing-Alternate-Chest-Fly_Chest_GREEN.png,cable
+5569,Weighted + Lever Incline One Arm Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/43711101-Lever-Incline-One-Arm-Chest-Press-(plate-loaded)_Chest_small.png,weighted
+27369,Weighted + Seated Leg Raise On Floor,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/50231101-Weighted-Seated-Leg-Raise-on-Floor_Waist_small.png,weighted
+4322,Dumbbell + Single Arm Preacher Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/30841101-Dumbbell-Single-Arm-Preacher-Curl-(female)_Upper-Arms_small.png,dumbbell
+5589,Cable + Low Row With Rope Attachment,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/43911101-Cable-Low-Row-with-Rope-Attachment_Back_small.png,cable
+1561,Barbell + Standing Reverse Grip Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/01101101-Barbell-Standing-Reverse-Grip-Curl_Forearms_small.png,barbell
+5440,Weighted + Seated Reverse Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/42321101-Weighted-Seated-Reverse-Wrist-Curl_Forearms_small.png,weighted
+2979,Dumbbell + Prone Incline Hammer Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16741101-Dumbbell-Prone-Incline-Hammer-Curl_Upper-Arms_small.png,dumbbell
+4671,Seated Flexion And Extension Neck,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/34411101-Seated-Flexion-And-Extension-Neck-(male)_Neck_small.png,unknown
+4282,Cable + Cross Over Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/30441101-Cable-Cross-over-Lateral-Pulldown-(female)_Back_small.png,cable
+1665,Cable + Seated One Arm Alternate Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02141101-Cable-Seated-One-Arm-Alternate-Row_Back_small.png,cable
+4569,Dumbbell + Single Stiff Leg Deadlift,db_2_alt_legs,hips,https://apilyfta.com/static/GymvisualPNG/33381101-Dumbbell-Single-Stiff-Leg-Deadlift_Hips-FIX_small.png,dumbbell
+1781,Dumbbell + Incline Triceps Extension,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/03301101-Dumbbell-Incline-Triceps-Extension_Upper-Arms-FIX_small.png,dumbbell
+3027,Dumbbell + Incline Two Arm Extension,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/17331101-Dumbbell-Incline-Two-Arm-Extension_Upper-Arms_small.png,dumbbell
+3433,Dumbbell + Dumbbells Seated Triceps Extension,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/21891101-Dumbbells-Seated-Triceps-Extension_Upper-Arms_small.png,dumbbell
+3127,Neck Flexor And Rotational Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/18401101-Neck-Flexor-And-Rotational-Stretch_Neck_small.png,unknown
+233,Cable + Reverse Grip Machine Lat Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/06731101-reverse-grip-machine-lat-pulldown_Back_small.png,cable
+3648,Weighted + Standing Neck Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/24101101-Weighted-Standing-Neck-Extension-(with-head-harness)_Neck_small.png,weighted
+3827,Dumbbell + Lying Triceps Extension,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/25891101-Dumbbell-Lying-Triceps-Extension-(female)_Upper-Arms_small.png,dumbbell
+1645,Cable + Overhead Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/01941101-Cable-Overhead-Triceps-Extension-(rope-attachment)_Upper-Arms_small.png,cable
+2802,Dumbbell + Flat Flye Hold Isometric,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/14501101-Dumbbell-Flat-Flye-Hold_Isometric_small.png,dumbbell
+27645,Barbell + Kas Glute Bridge (Female),weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/54511101-Barbell-KAS-Glute-Bridge-(female)_Hips_small.png,barbell
+28017,Dumbbell + Standing Back Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/63661101-Dumbbell-Standing-Back-Wrist-Curl_Forearms_small.png,dumbbell
+4201,Captains Chair Straight Leg Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/29631101-Captains-Chair-Straight-Leg-Raise_Waist_small.png,unknown
+1844,Dumbbell + Seated Inner Biceps Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03931101-Dumbbell-Seated-Inner-Biceps-Curl_Upper-Arms_small.png,dumbbell
+4192,Cable + Standing Reverse Grip Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/29541101-Cable-Standing-Reverse-Grip-Curl-(Straight-bar)_Forearms_small.png,cable
+28014,Cable + Standing Wrist Reverse Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/63631101-Cable-Standing-Wrist-Reverse-Curl_Forearms_small.png,cable
+4027,Wrist - Adduction - Articulations,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/27891101-Wrist---Adduction_Articulations_small.png,unknown
+3854,Cable + Lateral Pulldown With V-Bar,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/26161101-Cable-Lateral-Pulldown-with-V-bar_Back_small.png,cable
+4871,Weighted + Kneeling Step With Swing,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/36411101-Weighted-Kneeling-Step-with-Swing_Thighs_small.png,weighted
+2623,Cable + One Arm Twisting Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/12051101-Cable-one-arm-twisting-seated-row_back_small.png,cable
+5182,Dumbbell + Incline Around The World,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/39671101-Dumbbell-Incline-Around-the-World_Shoulders_small.png,dumbbell
+1555,Barbell + Standing Back Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/01041101-Barbell-Standing-Back-Wrist-Curl_Forearms_small.png,barbell
+1557,Barbell + Standing Close Grip Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/01061101-Barbell-Standing-Close-Grip-Curl_Upper-Arms_small.png,barbell
+47333,Standing Switching Palm Squeezes,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/65821201-Standing-Switching-Palm-Squeezes-(male)_Forearms__GREEN.png,unknown
+1833,Dumbbell + Revers Grip Biceps Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/03821101-Dumbbell-Revers-grip-Biceps-Curl_Forearms_small.png,dumbbell
+5625,Weighted + Lying Neck Side To Side,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/44311101-Weighted-Lying-Neck-Side-to-Side_Neck_small.png,weighted
+2593,Barbell + Standing Military Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/11651101-Barbell-Standing-Military-Press-(without-rack)_Shoulders-FIX_small.png,barbell
+4962,Kettlebell + Straight Leg Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/37331101-Kettlebell-Straight-leg-Deadlift_Hips_small.png,kettlebell
+27557,Barbell + Standing Shoulders Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/53281101-Barbell-Standing-Shoulders-Press_Shoulders-FIX_small.png,barbell
+1877,Dumbbell + Standing Overhead Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/04261101-Dumbbell-Standing-Overhead-Press_shoulder_small.png,dumbbell
+5382,Barbell + Banded Romanian Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/41731101-Barbell-Banded-Romanian-Deadlift_Hips_small.png,barbell
+28015,Ez Barbell + Ez Bar Seated Wrist Reverse Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/63641101-EZ-Bar-Seated-Wrist-Reverse-Curl_Forearms_small.png,ez barbell
+5425,Cable + Wide Neutral Grip Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/42171101-Cable-Wide-Neutral-Grip-PullDown_Back_small.png,cable
+1556,Barbell + Standing Bradford Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/01051101-Barbell-Standing-Bradford-Press_Shoulders_small.png,barbell
+5336,Barbell + Deadstop Row With Rack,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/41261101-Barbell-Deadstop-Row-with-Rack-(male)_Back_small.png,barbell
+5609,Barbell + Seated High Front Raise,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/44111101-Barbell-Seated-High-Front-Raise_Shoulders_small.png,barbell
+5338,Weighted + Counterbalanced Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/41281101-Weighted-Counterbalanced-Squat-(male)_Thighs_small.png,weighted
+1559,Barbell + Standing Leg Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/01081101-Barbell-Standing-Leg-Calf-Raise_Calf_small.png,barbell
+3529,Dumbbell + Bulgarian Split Squat,db_2_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/22901101-Dumbbell-Bulgarian-Split-Squat-(female)_Thighs_small.png,dumbbell
+2759,Smith Machine + Smith Seated One Leg Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13951101-Smith-Seated-One-Leg-Calf-Raise_Calves_small.png,smith machine
+307,Lever Seated One Leg Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/12161101-Lever-seated-one-leg-calf-raise_calves_small.png,unknown
+324,Cable + Standing Up Straight Crossovers,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/12691101-Cable-Standing-Up-Straight-Crossovers_Chest_small.png,cable
+1879,Dumbbell + Standing Preacher Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/04281101-Dumbbell-Standing-Preacher-Curl_Upper-Arms_small.png,dumbbell
+5318,Dumbbell + Standing Arnold Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/41081101-Dumbbell-Standing-Arnold-Press-(male)_Shoulders_small.png,dumbbell
+345,Cable + Lever Reverse Grip Vertical Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/13481101-Lever-Reverse-Grip-Vertical-Row_Back_small.png,cable
+1779,Dumbbell + Incline Shoulder Raise,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03281101-Dumbbell-Incline-Shoulder-Raise_chest_small.png,dumbbell
+4925,Dumbbell + Alternate Bench Press,db_1_alt_sides,chest,https://apilyfta.com/static/GymvisualPNG/36951101-Dumbbell-Alternate-Bench-Press-(high-start)_Chest_small.png,dumbbell
+2948,Cable + Rope Hammer Preacher Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16391101-Cable-Rope-Hammer-Preacher-Curl_Upper-Arms_small.png,cable
+1873,Dumbbell + Standing One Arm Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/04221101-Dumbbell-Standing-One-Arm-Curl-(over-incline-bench)_Upper-Arms_small.png,dumbbell
+4437,Cable + Lever Bent-Over Row With V-Bar,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/32001101-Lever-Bent-over-Row-with-V-bar-(plate-loaded)_Back_small.png,cable
+1840,Dumbbell + Seated Bench Extension,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/03891101-Dumbbell-Seated-Bench-Extension_Upper-Arms-FIX_small.png,dumbbell
+1749,Dumbbell + Cross Body Hammer Curl,db_1_alt_sides,"biceps, forearms",https://apilyfta.com/static/GymvisualPNG/02981101-Dumbbell-Cross-Body-Hammer-Curl_Forearms_small.png,dumbbell
+3646,Weighted + Lying Neck Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/24081101-Weighted-Lying-Neck-Extension-(with-head-harness)_Neck_small.png,weighted
+2317,Weighted + Hanging Leg-Hip Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08661101-Weighted-Hanging-leg-hip-raise_Waist_small.png,weighted
+1566,Barbell + Stiff Leg Good Morning,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/01151101-Barbell-Stiff-Leg-Good-Morning_Waist_small.png,barbell
+2906,Kettlebell + One Legged Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/15691101-Kettlebell-One-Legged-Deadlift_Hips_small.png,kettlebell
+5551,Cable + Lying Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/43531101-Cable-Lying-Triceps-Extension-(with-Rope)_small.png,cable
+4308,Cable + Two Arm Tricep Kickback,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/30701101-Cable-Two-Arm-Tricep-Kickback-(female)_Upper-Arms_small.png,cable
+1736,Dumbbell + Alternate Biceps Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/02851101-Dumbbell-Alternate-Biceps-Curl_Upper-Arms-AFIX_small.png,dumbbell
+5088,Cable + Fly With Chest Supported,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/38681101-Cable-Fly-with-Chest-Supported_Chest_small.png,cable
+2729,Cable + Lever One Arm Lateral High Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/13561101-Lever-One-Arm-Lateral-High-Row_Back_small.png,cable
+2602,Dumbbell + Forward Leaning Lunge,db_2_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/11751101-Dumbbell-forward-leaning-lunge_Thighs_small.png,dumbbell
+2975,Dumbbell + One Arm Standing Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/16701101-Dumbbell-One-Arm-Standing-Curl_Upper-Arms_small.png,dumbbell
+1480,Barbell + Clean-Grip Front Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00291101-Barbell-Clean-grip-Front-Squat_Thighs_small.png,barbell
+1775,Dumbbell + Incline Palm-In Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03241101-Dumbbell-Incline-Palm-in-Press_Chest_small.png,dumbbell
+1550,Barbell + Single Leg Split Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00991101-Barbell-Single-Leg-Split-Squat_Hips_small.png,barbell
+4228,Barbell + Walk Calves Activation,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/29901101-Barbell-Walk-Calves-Activation_Thighs_small.png,barbell
+28018,Cable + Standing Back Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/63671101-Cable-Standing-Back-Wrist-Curl_Forearms_small.png,cable
+4960,Barbell + Sumo Romanian Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/37311101-Barbell-Sumo-Romanian-Deadlift_Hips_small.png,barbell
+1846,Dumbbell + Seated Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03951101-Dumbbell-Seated-Lateral-Raise-II_shoulder_small.png,dumbbell
+1806,Dumbbell + One Arm Lateral Raise,db_1_alt_sides,shoulders,https://apilyfta.com/static/GymvisualPNG/03551101-Dumbbell-One-Arm-Lateral-Raise_shoulder_small.png,dumbbell
+1856,Dumbbell + Seated Shoulder Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/04051101-Dumbbell-Seated-Shoulder-Press_Shoulders_small.png,dumbbell
+408,Barbell + Standing Wide Grip Biceps Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16291101-Barbell-Standing-Wide-Grip-Biceps-Curl_Upper-Arms_small.png,barbell
+1690,Cable + Straight Back Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02391101-Cable-Straight-Back-Seated-Row_Back_small.png,cable
+2758,Smith Machine + Smith One Leg Floor Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13931101-Smith-One-Leg-Floor-Calf-Raise_Calves_small.png,smith machine
+3130,Assisted Rotating Neck Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/18431101-Assisted-Rotating-Neck-Stretch_Neck_small.png,unknown
+353,Body Weight + Bodyweight Standing Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13731101-Bodyweight-Standing-Calf-Raise_Calves_small.png,body weight
+1820,Dumbbell + Over Bench Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/03691101-Dumbbell-Over-Bench-Wrist-Curl_Forearms_small.png,dumbbell
+5623,Weighted + Lying Side Neck Raise,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/44291101-Weighted-Lying-Side-Neck-Raise_Neck_small.png,weighted
+5548,Cable + Lying Regular Grip Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/43501101-Cable-Lying-Regular-grip-Curl-(female)_Upper-Arms_small.png,cable
+1880,Dumbbell + Standing Reverse Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/04291101-Dumbbell-Standing-Reverse-Curl_Forearms_small.png,dumbbell
+5343,Kettlebell + Suitcase Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/41331101-Kettlebell-Suitcase-Deadlift-(male)_Hips_small.png,kettlebell
+3530,Cable + Wide-Grip Lat Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/22911101-Cable-Wide-Grip-Lat-Pulldown-(female)_Back_small.png,cable
+4913,Dumbbell + Gobelt Curtsey Lunge,db_1_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/36831101-Dumbbell-Gobelt-Curtsey-Lunge_Thighs_small.png,dumbbell
+156,Dumbbell + Over Bench One Arm Wrist Curl,db_1_alt_sides,forearms,https://apilyfta.com/static/GymvisualPNG/03671101-Dumbbell-Over-Bench-One-Arm-Wrist-Curl_Forearms_small.png,dumbbell
+3380,Standing Abs Rotation Stretch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/21101101-Standing-Abs-Rotation-Stretch_Waist_small.png,unknown
+3119,Diagonal Flexion Neck Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18321101-Diagonal-Flexion-Neck-Stretch_Neck_small.png,unknown
+4464,Cable + Seated Supine-Grip Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/32331101-Cable-Seated-Supine-grip-Row-(male)_Back_small.png,cable
+1532,Barbell + Reverse Preacher Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/00811101-Barbell-Reverse-Preacher-Curl_Forearm_small.png,barbell
+2224,Smith Machine + Smith Standing Leg Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/07731101-Smith-Standing-Leg-Calf-Raise_Calf_small.png,smith machine
+5420,Dumbbell + 4 Ways Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/42111101-Dumbbell-4-Ways-Lateral-Raise_Shoulders_small.png,dumbbell
+1867,Dumbbell + Standing Biceps Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/04161101-Dumbbell-Standing-Biceps-Curl_Upper-Arms_small.png,dumbbell
+291,Cable + Close-Grip Front Lat Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/10471101-Cable-Close-Grip-Front-Lat-Pulldown_Back_small.png,cable
+3602,Body Weight + Assisted Wide-Grip Chest Dip,bodyweight_assisted,chest,https://apilyfta.com/static/GymvisualPNG/23641101-Assisted-Wide-Grip-Chest-Dip-(kneeling)_Chest_small.png,body weight
+395,Cable + Reverse Grip Triceps Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/16061101-Cable-Reverse-Grip-Triceps-Pushdown-(SZ-bar)_Upper-arms_small.png,cable
+398,Cable + One Arm Side Triceps Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/16091101-Cable-One-Arm-Side-Triceps-Pushdown_Upper-arms_small.png,cable
+5490,Dumbbell + Lying Hamstring Curl,db_1_both_sides,hamstring,https://apilyfta.com/static/GymvisualPNG/42921301-Dumbbell-Lying-Hamstring-Curl_Thighs_720_small.png,dumbbell
+1853,Dumbbell + Seated Preacher Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/04021101-Dumbbell-Seated-Preacher-Curl_Upper-Arms_small.png,dumbbell
+3680,Cable + Upper Chest Crossovers,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/24421101-Cable-Upper-Chest-Crossovers-(female)_Chest_small.png,cable
+5436,Cable + Half Kneeling Push Pull,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/42281101-Cable-Half-Kneeling-Push-Pull_Back_small.png,cable
+1567,Barbell + Straight Leg Deadlift,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/01161101-Barbell-Straight-Leg-Deadlift_Thighs-AFIX_small.png,barbell
+2883,Barbell + Stiff Legged Deadlift,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/15431101-Barbell-Stiff-Legged-Deadlift_Hips_small.png,barbell
+426,Cable + Rope Incline Tricep Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/17251101-Cable-Rope-Incline-Tricep-Extension_Upper-Arms_small.png,cable
+3522,Weighted + Lever Neck Left Side Flexion,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/22831101-Lever-Neck-Left-Side-Flexion-(plate-loaded)_Neck_small.png,weighted
+3019,Cable + One Arm Tricep Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/17231101-Cable-One-Arm-Tricep-Pushdown_Upper-Arms_small.png,cable
+27979,Dumbbell + Standing Arms Rotate,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/62671101-Dumbbell-Standing-Arms-Rotate_Forearms_small.png,dumbbell
+3123,Forward Flexion Neck Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18361101-Forward-Flexion-Neck-Stretch_Neck_small.png,unknown
+1868,Dumbbell + Standing Calf Raise,db_2_simultaneous,calves,https://apilyfta.com/static/GymvisualPNG/04171101-Dumbbell-Standing-Calf-Raise_Calf_small.png,dumbbell
+4911,Dumbbell + Squeeze Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/36811101-Dumbbell-Squeeze-Bench-Press_Chest_small.png,dumbbell
+2640,Cable + Standing Lat Pushdown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/12291101-Cable-Standing-Lat-Pushdown-(rope-equipment)_Back_small.png,cable
+215,Cable + Lever Narrow Grip Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/05881101-Lever-Narrow-Grip-Seated-Row-(plate-loaded)_Back_small.png,cable
+2783,Body Weight + Modified Push Up To Forearms,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/14211101-Modified-Push-Up-to-Forearms_Forearms_small.png,body weight
+374,Barbell + Standing Wide Military Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/14571101-Barbell-Standing-Wide-Military-Press_Shoulders_small.png,barbell
+3122,Sitting Neck Flexion Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18351101-Sitting-Neck-Flexion-Stretch_Neck_small.png,unknown
+1902,Barbell + Ez Reverse Grip Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/04511101-EZ-Barbell-Reverse-Grip-Curl_Forearms_small.png,barbell
+28010,Dumbbell + Standing Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/63591101-Dumbbell-Standing-Wrist-Curl_Forearms_small.png,dumbbell
+27745,Cable + Low Chest Press (Male),weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/58141101-Cable-Low-Chest-Press-(male)_Chest_small.png,cable
+1771,Dumbbell + Incline Hammer Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03201101-Dumbbell-Incline-Hammer-Curl_Upper-Arms_small.png,dumbbell
+1752,Dumbbell + Decline Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03011101-Dumbbell-Decline-Bench-Press_Chest-FIX_small.png,dumbbell
+2200,Smith Machine + Smith Bent Knee Good Morning,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/07491101-Smith-Bent-Knee-Good-morning_Hips_small.png,smith machine
+5208,Dumbbell + Push-Up Front Raise,db_1_alt_sides,chest,https://apilyfta.com/static/GymvisualPNG/39931101-Dumbbell-Push-up-Front-Raise_Chest_small.png,dumbbell
+2980,Dumbbell + Reverse Spider Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16751101-Dumbbell-Reverse-Spider-Curl_Upper-Arms_small.png,dumbbell
+4896,Walking On Incline Treadmill,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/36661101-Walking-on-Incline-Treadmill_Cardio_small.png,unknown
+4050,Dumbbell + Step-Up Split Squat,db_2_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/28121101-Dumbbell-Step-up-Split-Squat_Thighs_small.png,dumbbell
+1688,Cable + Straight Arm Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02371101-Cable-Straight-Arm-Pulldown-(with-rope)_Back-FIX_small.png,cable
+3729,Cable + Reverse Grip Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/24911101-Cable-Reverse-Grip-Pulldown-(female)_Back_small.png,cable
+1766,Dumbbell + Incline Biceps Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03151101-Dumbbell-Incline-Biceps-Curl_Upper-Arms_small.png,dumbbell
+27322,Cable + High Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/49601101-Cable-High-Triceps-Extension_Upper-Arms_small.png,cable
+4432,Lever Lying Two-One Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/31951101-Lever-Lying-Two-One-Leg-Curl_Thighs_small.png,unknown
+3647,Weighted + Lying Neck Flexion,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/24091101-Weighted-Lying-Neck-Flexion-(with-head-harness)_Neck_small.png,weighted
+4163,Dumbbell + Single Leg Step Up,db_1_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/29251101-Dumbbell-Single-Leg-Step-Up_Thighs_small.png,dumbbell
+2741,Barbell + Standing Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13721101-Barbell-Standing-Calf-Raise_Calves_small.png,barbell
+5323,Landmine Romanian Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/41131101-Landmine-Romanian-Deadlift-(male)_Hips_small.png,unknown
+329,Smith Machine + Smith Wide Grip Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/13081101-Smith-Wide-Grip-Bench-Press_Chest_small.png,smith machine
+3903,Cable + Lever Lateral Wide Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/26651101-Lever-Lateral-Wide-Pulldown_Back_small.png,cable
+27723,Dumbbell + Walking Calf Raise,db_2_alt_legs,calves,https://apilyfta.com/static/GymvisualPNG/56981101-Dumbbell-Walking-Calf-Raise_Calves_small.png,dumbbell
+1883,Dumbbell + Stiff Leg Deadlift,db_2_simultaneous,hips,https://apilyfta.com/static/GymvisualPNG/04321101-Dumbbell-Stiff-Leg-Deadlift_Waist_small.png,dumbbell
+4828,Cable + Seated Wide Grip Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/35981101-Cable-Seated-Wide-grip-Row-(female)_Back_small.png,cable
+2943,Cable + One Arm Preacher Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16331101-Cable-One-Arm-Preacher-Curl_Upper-Arms_small.png,cable
+27217,Cable + Unilateral Bicep Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/48381101-Cable-Unilateral-Bicep-Curl_Upper-Arms_small.png,cable
+4306,Cable + Standing Biceps Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/30681101-Cable-Standing-Biceps-Curl-(with-rope)-(female)_Forearms_small.png,cable
+1498,Barbell + Incline Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/00471101-Barbell-Incline-Bench-Press_Chest-FIX_small.png,barbell
+1913,Front And Back Neck Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/04621101-Front-and-Back-Neck-Stretch_Neck_small.png,unknown
+27974,Barbell + Standing Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/62621101-Barbell-Standing-Wrist-Curl_Forearms_small.png,barbell
+3128,Lying Neck Extensor Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18411101-Lying-Neck-Extensor-Stretch_Neck_small.png,unknown
+61,Cable + Cross-Over Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01531101-Cable-Cross-over-Lateral-Pulldown_Back_small.png,cable
+1640,Cable + One Arm Bent Over Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01891101-Cable-One-Arm-Bent-over-Row_Back-FIX_small.png,cable
+392,Smith Machine + Smith Stiff Legged Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/15971101-Smith-Stiff-Legged-Deadlift_Hips_small.png,smith machine
+4921,Dumbbell + Goblet Split Squat,db_1_both_sides,quadriceps,https://apilyfta.com/static/GymvisualPNG/36911101-Dumbbell-Goblet-Split-Squat_Thighs_small.png,dumbbell
+2860,Smith Machine + Smith Good Morning Off Pins,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/15191101-Smith-Good-Morning-Off-Pins_Hips_small.png,smith machine
+2924,Lever Lying Single Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/15901101-Lever-Lying-Single-Leg-Curl_Thighs_small.png,unknown
+1836,Dumbbell + Reverse Wrist Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/03851101-Dumbbell-Reverse-Wrist-Curl_Forearm_small.png,dumbbell
+3899,Cable + Seated Row With V Bar,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/26611101-Cable-Seated-Row-with-V-bar_Back_small.png,cable
+1748,Dumbbell + Concentration Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/02971101-Dumbbell-Concentration-Curl_Upper-Arms_small.png,dumbbell
+1825,Dumbbell + Prone Incline Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03741101-Dumbbell-Prone-Incline-Curl_Upper-Arms_small.png,dumbbell
+3462,Dumbbell + Romanian Deadlift,db_2_simultaneous,hips,https://apilyfta.com/static/GymvisualPNG/22221101-Dumbbell-Romanian-Deadlift-(female)_Hips_small.png,dumbbell
+4616,Lever Seated Leg Extension,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/33861101-Lever-Seated-Leg-Extension-(VERSION-2)_Thighs_small.png,unknown
+253,Smith Machine + Smith Seated Shoulder Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/07651101-Smith-Seated-Shoulder-Press_Shoulders_small.png,smith machine
+1669,Cable + Seated Wide-Grip Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02181101-Cable-Seated-Wide-grip-Row_Back_small.png,cable
+3883,Dumbbell + Close Grip Press,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/26451101-Dumbbell-Close-Grip-Press-(female)_Upper-Arms_small.png,dumbbell
+3894,Cable + One Arm Biceps Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/26561101-Cable-One-Arm-Biceps-Curl-(VERSION-2)_Upper-Arms_small.png,cable
+4045,Dumbbell + Sumo Pull Through,db_1_both_sides,hips,https://apilyfta.com/static/GymvisualPNG/28071101-Dumbbell-Sumo-Pull-Through_Hips_small.png,dumbbell
+1871,Dumbbell + Standing Kickback,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/04201101-Dumbbell-Standing-Kickback_Upper-Arms_small.png,dumbbell
+1458,Cable + Alternate Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/00071101-Alternate-Lateral-Pulldown_back_small.png,cable
+435,Cable + Kneeling Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/18591101-Cable-Kneeling-Triceps-Extension-(VERSION-2)_Upper-Arms_small.png,cable
+47256,Chin Tuck Against The Wall,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/63721201-Chin-Tuck-against-the-Wall-(male)_Neck__GREEN.png,unknown
+3650,Cable + Seated Neck Flexion,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/24121101-Cable-Seated-Neck-Flexion-(with-head-harness)_Neck_small.png,cable
+1592,Bridge - Mountain Climber,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/01411101-Bridge---Mountain-Climber-(Cross-Body)-(female)_Waist-FIX_small.png,unknown
+46722,Standing Side Neck Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/73061201-Standing-Side-Neck-Stretch-(female)_Neck_GREEN.png,unknown
+2239,Standing Behind Neck Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/07881101-Standing-Behind-Neck-Press_Shoulders_small.png,unknown
+1530,Barbell + Revers Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/00791101-Barbell-Revers-Wrist-Curl-II_Forearms_small.png,barbell
+2071,Lying Leg Raise Flat Bench,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/06201101-Lying-Leg-Raise-Flat-Bench_waist_small.png,unknown
+4955,Barbell + Seated Front Raise,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/37261101-Barbell-Seated-Front-Raise_Shoulders_small.png,barbell
+140,Dumbbell + Incline Rear Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03261101-Dumbbell-Incline-Rear-Lateral-Raise_Shoulders_small.png,dumbbell
+4295,Cable + Pulldown Bicep Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/30571101-Cable-Pulldown-Bicep-Curl-(female)_Upper-Arms_small.png,cable
+5365,Weighted + Seated Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/41551101-Weighted-Seated-Calf-Raise_Calves_small.png,weighted
+47587,Cable + Single Arm Crossover,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/69491201-Cable-Single-Arm-Crossover-(male)_Chest_GREEN.png,cable
+3818,Cable + Standing Inner Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/25801101-Cable-Standing-Inner-Curl-(female)_Upper-Arms_small.png,cable
+2492,Barbell + One Leg Hip Thrust,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/10611101-Barbell-one-leg-hip-thrust_Hips_small.png,barbell
+1601,Cable + Bar Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01501101-Cable-Bar-Lateral-Pulldown_Back_small.png,cable
+2622,Cable + One Arm Lat Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/12041101-Cable-one-arm-lat-pulldown_back_small.png,cable
+3451,Lever Standing Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/22111101-Lever-Standing-Calf-Raise-(female)_Calves_small.png,unknown
+2746,Dumbbell + Seated Calf Raise,db_2_simultaneous,calves,https://apilyfta.com/static/GymvisualPNG/13791101-Dumbbell-Seated-Calf-Raise_Calves_small.png,dumbbell
+251,Smith Machine + Smith Reverse Calf Raises,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/07631101-Smith-Reverse-Calf-Raises_calf_small.png,smith machine
+326,Leverage Machine + Lever Incline Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/12991101-Leverage-Incline-Chest-Press_Chest_small.png,leverage machine
+1536,Barbell + Romanian Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00851101-Barbell-Romanian-Deadlift_Hips_small.png,barbell
+2740,Barbell + Seated Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13711101-Barbell-Seated-Calf-Raise_Calves_small.png,barbell
+247,Smith Machine + Smith Incline Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/07571101-Smith-Incline-Bench-Press_Chest-FIX_small.png,smith machine
+304,Cable + One Arm Inner Biceps Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/12031101-Cable-one-arm-inner-biceps-curl_upper-arms_small.png,cable
+327,Lever Decline Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/13001101-Lever-Decline-Chest-Press_Chest_small.png,unknown
+245,Smith Machine + Smith Decline Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/07531101-Smith-Decline-Bench-Press_Chest_small.png,smith machine
+2645,Cable + Lever One Arm Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/12351101-Lever-One-Arm-Seated-Row-(Seated-row-machine)_Back_small.png,cable
+5601,Kettlebell + Kettlebells Sumo Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/44031101-Kettlebells-Sumo-Deadlift_Hips_small.png,kettlebell
+4953,Barbell + Floor Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/37241101-Barbell-Floor-Chest-Press_Chest_small.png,barbell
+72,Cable + Incline Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/01731101-Cable-Incline-Triceps-Extension_Upper-Arms_small.png,cable
+28040,Cable + Single Arm High Row,weight_reps,back,,cable
+138,Dumbbell + Incline Inner Biceps Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03221101-Dumbbell-Incline-Inner-Biceps-Curl_Upper-Arms_small.png,dumbbell
+152,Dumbbell + One Arm Revers Wrist Curl,db_1_alt_sides,forearms,https://apilyfta.com/static/GymvisualPNG/03581101-Dumbbell-One-arm-Revers-Wrist-Curl_Forearms_small.png,dumbbell
+2920,Lever Seated One Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/15861101-Lever-Seated-One-Leg-Curl_Thighs_small.png,unknown
+27367,Barbell + Pause Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/50131101-Barbell-Pause-Bench-Press_Chest_small.png,barbell
+27402,Prone Cervical Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/50601101-Prone-Cervical-Extension_Neck_small.png,unknown
+27756,Lever Incline Fly (Male),weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/58431101-Lever-Incline-Fly-(male)_Chest_small.png,unknown
+3407,Cable + Seated Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/21441101-Cable-Seated-Chest-Press_Chest_small.png,cable
+3121,Neck Protraction Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18341101-Neck-Protraction-Stretch_Neck_small.png,unknown
+1549,Barbell + Side Split Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00981101-Barbell-Side-Split-Squat_Thighs_small.png,barbell
+4917,Dumbbell + Drag Bicep Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/36871101-Dumbbell-Drag-Bicep-Curl_Upper-Arms_small.png,dumbbell
+5421,Lever Banded Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/42131101-Lever-Banded-Chest-Press_Chest_small.png,unknown
+1661,Cable + Reverse Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/02101101-Cable-Reverse-Wrist-Curl_Forearm_small.png,cable
+27682,Ez Barbell + Ez Bar Seated Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/55791101-EZ-Bar-Seated-Wrist-Curl_Forearms-FIX_small.png,ez barbell
+180,Dumbbell + Standing Alternate Raise,db_1_alt_sides,shoulders,https://apilyfta.com/static/GymvisualPNG/04151101-Dumbbell-Standing-Alternate-Raise_Shoulders_small.png,dumbbell
+4873,Weighted + Cossack Squats,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/36431101-Weighted-Cossack-Squats-(male)_Thighs_small.png,weighted
+3531,Dumbbell + Rear Delt Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/22921101-Dumbbell-Rear-Delt-Raise_Shoulders_small.png,dumbbell
+3904,Weighted + Lever Seated Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/26661101-Lever-Seated-Calf-Raise-(plate-loaded)-(VERSION-2)_Calves_small.png,weighted
+2753,One Leg Floor Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13871101-One-Leg-Floor-Calf-Raise_Calves_small.png,unknown
+1573,Barbell + Wide Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/01221101-Barbell-Wide-Bench-Press_Chest_small.png,barbell
+5313,Trap Bar + Standing Shrug,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/41031101-Trap-Bar-Standing-Shrug-(male)_Back_small.png,trap bar
+80,Cable + Lying Triceps Extension,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/01871101-Cable-Lying-Triceps-Extension_Upper-Arms_small.png,cable
+4673,Body Weight + Dip On Floor With Chair,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/34431101-Dip-on-Floor-with-Chair_Chest_small.png,body weight
+47,Barbell + Standing Wide-Grip Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/01131101-Barbell-Standing-Wide-grip-Curl_Upper-Arms_small.png,barbell
+1628,Cable + Lateral Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01771101-Cable-Lateral-Pulldown-(with-rope-attachment)_Back_small.png,cable
+11,Barbell + Decline Wide-Grip Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/00361101-Barbell-Decline-Wide-grip-Press_Chest_small.png,barbell
+427,Cable + Two Arm Tricep Kickback,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/17281101-Cable-Two-Arm-Tricep-Kickback_Upper-Arms_small.png,cable
+3489,Cable + Triceps Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/22491101-Cable-Triceps-Pushdown-(V-bar)-(female)_Upper-Arms_small.png,cable
+3436,Elliptical Machine Walk,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/21921101-Elliptical-Machine-Walk_Cardio_small.png,unknown
+210,Weighted + Lever Kneeling Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/05821101-Lever-Kneeling-Leg-Curl-(plate-loaded)_Thighs_small.png,weighted
+1502,Barbell + Jefferson Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00511101-Barbell-Jefferson-Squat_Thighs-FIX_small.png,barbell
+47288,5 Sec Fist Against Chin,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/64071201-5-Sec-Fist-Against-Chin-(male)_Neck__GREEN.png,unknown
+5110,Hanging Knees To Elbows,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/38901101-Hanging-Knees-to-Elbows_Waist-FIX_small.png,unknown
+240,Smith Machine + Smith Behind Neck Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/07471101-Smith-Behind-Neck-Press_shoulder_small.png,smith machine
+5314,Trap Bar + Bent Over Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/41041101-Trap-Bar-Bent-Over-Row-(male)_Back_small.png,trap bar
+236,Sled Machine + Sled 45° Leg Wide Press,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/07401101-Sled-45-Leg-Wide-Press_Thighs_small.png,sled machine
+1457,Alternate Heel Touchers,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/00061101-Alternate-Heel-Touchers_waist-FIX_small.png,unknown
+399,Barbell + Behind Back Finger Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/16101101-Barbell-Behind-Back-Finger-Curl_Forearms_small.png,barbell
+2296,Weighted + Russian Twist,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08451101-Weighted-Russian-Twist-(legs-up)_waist_small.png,weighted
+2908,Lever One Leg Extension,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/15711101-Lever-One-Leg-Extension_Thighs_small.png,unknown
+5568,Smith Machine + Smith Seated Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/43701101-Smith-Seated-Calf-Raise_Calves_small.png,smith machine
+2172,Side Wrist Pull Stretch,duration,forearms,https://apilyfta.com/static/GymvisualPNG/07211101-Side-Wrist-Pull-Stretch_Forearms_small.png,unknown
+1479,Barbell + Clean And Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00281101-Barbell-Clean-and-Press_Shoulders_small.png,barbell
+1526,Barbell + Rear Delt Raise,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00751101-Barbell-Rear-Delt-Raise_shoulder_small.png,barbell
+2618,Sumo Deadlift High Pull,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/11991101-Sumo-Deadlift-High-Pull_Thighs_Shoulders_small.png,unknown
+3573,Lever Seated Calf Press,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/23351101-Lever-Seated-Calf-Press_Calves_small.png,unknown
+286,Weighted + Lever Lying Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/10411101-Lever-Lying-Chest-Press-(plate-loaded)_Chest_small.png,weighted
+1915,Body Weight + Front Plank With Twist,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/04641101-Front-Plank-with-Twist_waist_small.png,body weight
+2086,Oblique Crunches Floor,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/06351101-Oblique-Crunches-Floor_waist_small.png,unknown
+1790,Dumbbell + Lying Femoral,db_1_both_sides,hamstring,https://apilyfta.com/static/GymvisualPNG/03391101-Dumbbell-Lying-Femoral_Thighs_small.png,dumbbell
+4872,Weighted + Stretch Lunge,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/36421101-Weighted-Stretch-Lunge_Thighs_small.png,weighted
+161,Dumbbell + Rear Delt Row_Shoulder,db_1_alt_sides,shoulders,https://apilyfta.com/static/GymvisualPNG/03771101-Dumbbell-Rear-Delt-Row_shoulder_small.png,dumbbell
+2325,Cable + Standing Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08741101-Cable-Standing-Crunch-(with-rope-attachment)_waist_small.png,cable
+1785,Dumbbell + Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03341101-Dumbbell-Lateral-Raise_shoulder-AFIX_small.png,dumbbell
+2023,Lever Assisted Chin-Up,bodyweight_assisted,back,https://apilyfta.com/static/GymvisualPNG/05721101-Lever-Assisted-Chin-Up_Back_small.png,unknown
+2944,Cable + Lying Bicep Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16341101-Cable-Lying-Bicep-Curl_Upper-Arms_small.png,cable
+428,Dumbbell + Lying Single Extension,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/17351101-Dumbbell-Lying-Single-Extension_Upper-Arms_small.png,dumbbell
+3120,Neck Extension Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/18331101-Neck-Extension-Stretch_Neck_small.png,unknown
+1768,Dumbbell + Incline Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03171101-Dumbbell-Incline-Curl-II_Upper-Arms_small.png,dumbbell
+1823,Dumbbell + Preacher Curl,db_1_alt_sides,biceps,https://apilyfta.com/static/GymvisualPNG/03721101-Dumbbell-Preacher-Curl_Upper-Arms_small.png,dumbbell
+3640,Dumbbell + Hammer Curls,db_2_simultaneous,"biceps, forearms",https://apilyfta.com/static/GymvisualPNG/24021101-Dumbbell-Hammer-Curls-(with-arm-blaster)_Forearms_small.png,dumbbell
+1744,Dumbbell + Bent Over Row,db_2_simultaneous,back,https://apilyfta.com/static/GymvisualPNG/02931101-Dumbbell-Bent-Over-Row_Back-FIX_small.png,dumbbell
+2304,Weighted + Standing Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/08531101-Weighted-Standing-Curl_Forearms_small.png,weighted
+178,Dumbbell + Single Leg Split Squat,db_2_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/04101101-Dumbbell-Single-Leg-Split-Squat_Thighs_small.png,dumbbell
+4279,Cable + Close Grip Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/30411101-Cable-Close-Grip-Curl-(female)_Upper-Arms_small.png,cable
+3507,Lever Seated Leg Press,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/22671101-Lever-Seated-Leg-Press_Thighs_small.png,unknown
+2247,Wheel Roller + Standing Wheel Rollout,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/07961101-Standing-Wheel-Rollout_Waist_small.png,wheel roller
+3520,Dumbbell + Goblet Squat,db_1_both_sides,quadriceps,https://apilyfta.com/static/GymvisualPNG/22811101-Dumbbell-Goblet-Squat-(female)_Thighs_small.png,dumbbell
+4957,Barbell + Front Step Up,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/37281101-Barbell-Front-Step-Up_Thighs_small.png,barbell
+3521,Weighted + Lever Neck Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/22821101-Lever-Neck-Extension-(plate-loaded)_Neck_small.png,weighted
+4205,Dumbbell + Front Squat,db_2_simultaneous,quadriceps,https://apilyfta.com/static/GymvisualPNG/29671101-Dumbbell-Front-Squat-(female)_Thighs_small.png,dumbbell
+5389,Cable + Seated Pullover,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/41801101-Cable-Seated-Pullover_Back_small.png,cable
+300,Cable + Lever Lying T-Bar Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/11941101-Lever-Lying-T-bar-Row_Back_small.png,cable
+222,Lever Seated Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/05991101-Lever-Seated-Leg-Curl_Thighs-FIX_small.png,unknown
+1521,Barbell + Preacher Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/00701101-Barbell-Preacher-Curl_Upper-Arms-AFIX_small.png,barbell
+5374,Dumbbell + Devils Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/41641101-Dumbbell-Devils-Press_Plyometric_small.png,dumbbell
+3400,Dumbbell + Arnold Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/21371101-Dumbbell-Arnold-Press_Shoulders_small.png,dumbbell
+5370,Squat Hold Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/41601101-Squat-Hold-Calf-Raise_Calves_small.png,unknown
+1578,Barbell + Zercher Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/01271101-Barbell-Zercher-Squat_Hips_small.png,barbell
+1890,Dumbbell + Zottman Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/04391101-Dumbbell-Zottman-Curl_Upper-Arms-FIX_small.png,dumbbell
+1527,Barbell + Rear Delt Row,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00761101-Barbell-Rear-Delt-Row_shoulder_small.png,barbell
+3052,Hanging Leg Hip Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/17641101-Hanging-Leg-Hip-Raise_Waist_small.png,unknown
+1478,Barbell + Bent Over Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/00271101-Barbell-Bent-Over-Row_Back-FIX_small.png,barbell
+1583,Bent-Knee Lying Twist,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/01321101-Bent-knee-Lying-Twist-(female)_Waist-FIX_small.png,unknown
+166,Dumbbell + Reverse Preacher Curl,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/03841101-Dumbbell-Reverse-Preacher-Curl_Forearms_small.png,dumbbell
+268,Weighted + Seated Neck Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/08481101-Weighted-Seated-Neck-Extension-(with-head-harness)_Neck_small.png,weighted
+3118,Rotating Neck Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/18311101-Rotating-Neck-Stretch_Neck_small.png,unknown
+27963,Bicycle Crunch (Male),weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/62111101-Bicycle-Crunch-(male)_Waist_small.png,unknown
+1626,Cable + Kneeling Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/01751101-Cable-Kneeling-Crunch_Waist-FIX_small.png,cable
+3518,Stationary Bike Run,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/22791101-Stationary-Bike-Run-(version-4)_Cardio_small.png,unknown
+117,Dumbbell + Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/02891101-Dumbbell-Bench-Press_Chest_small.png,dumbbell
+3437,Bicycle Recline Walk,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/21931101-Bicycle-Recline-Walk_Cardio_small.png,unknown
+287,Weighted + Lying Neck Extension,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/10421101-Weighted-Lying-Neck-Extension_neck_small.png,weighted
+129,Dumbbell + Decline Hammer Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03031101-Dumbbell-Decline-Hammer-Press_Chest_small.png,dumbbell
+3398,Body Weight + Weighted Front Plank,duration,abs,https://apilyfta.com/static/GymvisualPNG/21351101-Weighted-Front-Plank_Waist_small.png,body weight
+5368,Weighted + Side Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/41581101-Weighted-Side-Crunch_Waist_small.png,weighted
+2025,Cable + Lever Bent Over Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/05741101-Lever-Bent-over-Row-(plate-loaded)_Back_small.png,cable
+1572,Barbell + Upright Row,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/01211101-Barbell-Upright-Row-(without-weight)_Shoulders_small.png,barbell
+254,Smith Machine + Smith Shoulder Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/07661101-Smith-Shoulder-Press_shoulder_small.png,smith machine
+5037,Body Weight + Front Plank Toe Tap,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/38141101-Front-Plank-Toe-Tap-(male)_Hips_small.png,body weight
+1761,Dumbbell + Front Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03101101-Dumbbell-Front-Raise_Shoulders_small.png,dumbbell
+1742,Dumbbell + Bench Squat,db_2_simultaneous,quadriceps,https://apilyfta.com/static/GymvisualPNG/02911101-Dumbbell-Bench-Squat_thighs_small.png,dumbbell
+4678,Dumbbell + Side Lunge,db_1_alt_legs,quadriceps,https://apilyfta.com/static/GymvisualPNG/34481101-Dumbbell-Side-Lunge-(VERSION-3)_small.png,dumbbell
+1842,Dumbbell + Seated Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/03911101-Dumbbell-Seated-Curl_Upper-Arms_small.png,dumbbell
+3560,Dumbbell + Sumo Squat,db_1_both_sides,quadriceps,https://apilyfta.com/static/GymvisualPNG/23221101-Dumbbell-Sumo-Squat-(female)_Thighs-FIX_small.png,dumbbell
+5540,Dumbbell + Twisted Fly,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/43421101-Dumbbell-Twisted-Fly_Chest_small.png,dumbbell
+213,Lever Lying Leg Curl,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/05861101-Lever-Lying-Leg-Curl_Thighs_small.png,unknown
+2772,Barbell + Glute Bridge,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/14091101-Barbell-Glute-Bridge_Hips_small.png,barbell
+207,Cable + Lever Front Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/05791101-Lever-Front-Pulldown_Back_small.png,cable
+1631,Cable + Low Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01801101-Cable-Low-Seated-Row_Back_small.png,cable
+3499,Walking On Treadmill,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/22591101-Walking-on-Treadmill_Cardio_small.png,unknown
+1531,Barbell + Reverse Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/00801101-Barbell-Reverse-Curl_Forearm_small.png,barbell
+1495,Barbell + Good Morning,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/00441101-Barbell-Good-Morning_Thighs-AFIX_small.png,barbell
+1745,Dumbbell + Biceps Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/02941101-Dumbbell-Biceps-Curl_Upper-Arms_small.png,dumbbell
+4760,Barbell + Banded Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/35301101-Barbell-Banded-Squat_Thighs_small.png,barbell
+4937,Dumbbell + Press Squat,db_1_both_sides,quadriceps,https://apilyfta.com/static/GymvisualPNG/37071101-Dumbbell-Press-Squat_Thighs_Chest_small.png,dumbbell
+3645,Barbell + Biceps Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/24071101-Barbell-Biceps-Curl-(with-arm-blaster)_Upper-arms_small.png,barbell
+1770,Dumbbell + Incline Fly,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03191101-Dumbbell-Incline-Fly_Chest-FIX_small.png,dumbbell
+5209,Neck Circle Stretch,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/39941301-Neck-Circle-Stretch_Neck_720_small.png,unknown
+2807,Sled Machine + Sled 45° Leg Press,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/14631101-Sled-45-Leg-Press-(Side-POV)_Hips_small.png,sled machine
+1646,Cable + Preacher Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/01951101-Cable-Preacher-Curl_Upper-Arms_small.png,cable
+1455,Air Twisting Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/00041101-Air-Twisting-Crunch_waist_small.png,unknown
+1492,Barbell + Front Raise,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/00411101-Barbell-Front-Raise_Shoulders_small.png,barbell
+127,Dumbbell + Decline Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03011101-Dumbbell-Decline-Bench-Press_Chest_small.png,dumbbell
+46723,Smith Machine + Smith Sumo Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/73741201-Smith-Sumo-Deadlift_Hips_GREEN.png,smith machine
+1493,Barbell + Front Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00421101-Barbell-Front-Squat_Hips-FIX_small.png,barbell
+212,Lever Leg Extension,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/05851101-Lever-Leg-Extension_Thighs_small.png,unknown
+1477,Barbell + Bench Squat,weight_reps,"hips, quadriceps",https://apilyfta.com/static/GymvisualPNG/00261101-Barbell-Bench-Squat_Hips_small.png,barbell
+1576,Barbell + Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/01251101-Barbell-Wrist-Curl-II_Forearms_small.png,barbell
+27477,Seated Neck Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/51621101-Seated-Neck-Stretch_Stretching_small.png,unknown
+4617,Body Weight + Dips Between Chairs,full_bodyweight,triceps,https://apilyfta.com/static/GymvisualPNG/33871101-Dips-between-Chairs_Chest_small.png,body weight
+3456,Barbell + Hip Thrust,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/22161101-Barbell-Hip-Thrust-(female)_Hips_small.png,barbell
+1887,Dumbbell + Tate Press,db_2_simultaneous,triceps,https://apilyfta.com/static/GymvisualPNG/04361101-Dumbbell-Tate-Press_Triceps_small.png,dumbbell
+378,Push-Up On Forearms,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/14671101-Push-up-on-Forearms_Upper-Arms_small.png,unknown
+5111,Hanging Toes To Bar,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/38911101-Hanging-Toes-to-Bar_Waist_small.png,unknown
+136,Dumbbell + Incline Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03141101-Dumbbell-Incline-Bench-Press_Chest_small.png,dumbbell
+1476,Barbell + Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/00251101-Barbell-Bench-Press_Chest-FIX2_small.png,barbell
+4853,Vertical Leg Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/36231101-Vertical-Leg-Raise-(on-parallel-bars)-(female)-(VERSION-2)_Hips_small.png,unknown
+1822,Dumbbell + Plyo Squat,db_1_both_sides,quadriceps,https://apilyfta.com/static/GymvisualPNG/03711101-Dumbbell-Plyo-Squat_thighs_small.png,dumbbell
+1460,Body Weight + Assisted Chest Dip,bodyweight_assisted,chest,https://apilyfta.com/static/GymvisualPNG/00091101-Assisted-Chest-Dip-(kneeling)_Chest_small.png,body weight
+414,Dumbbell + Biceps Curl Reverse,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16541101-Dumbbell-Biceps-Curl-Reverse_Upper-Arms_small.png,dumbbell
+3819,Cable + One Arm Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/25811101-Cable-One-Arm-Curl-(female)_Upper-Arms_small.png,cable
+1500,Barbell + Incline Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/00491101-Barbell-Incline-Row_Back_small.png,barbell
+3569,Cycle Cross Trainer,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/23311101-Cycle-Cross-Trainer_Cardio_small.png,unknown
+5177,Seated Flutter Kick,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/39621101-Seated-Flutter-Kick_Waist_small.png,unknown
+404,Dumbbell + Reverse Bench Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/16241101-Dumbbell-Reverse-Bench-Press_Chest_small.png,dumbbell
+288,Weighted + Lying Neck Flexion,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/10431101-Weighted-Lying-Neck-Flexion_neck_small.png,weighted
+1529,Barbell + Rear Lunge,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00781101-Barbell-Rear-Lunge-(without-weight)_Thighs_small.png,barbell
+2494,Barbell + Sumo Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/10631101-Barbell-sumo-squat_Thighs-AFIX_small.png,barbell
+257,Smith Machine + Smith Sprint Lunge,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/07691101-Smith-Split-Squat_Thighs-FIX_small.png,smith machine
+298,Dumbbell + Lying Hammer Press,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/11771101-Dumbbell-Lying-Hammer-Press-(version-2)_Chest_small.png,dumbbell
+153,Dumbbell + One Arm Wrist Curl,db_1_alt_sides,forearms,https://apilyfta.com/static/GymvisualPNG/03641101-Dumbbell-One-arm-Wrist-Curl_Forearm-SFIX_small.png,dumbbell
+108,Cable + Underhand Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02451101-Cable-Underhand-Pulldown_Back_small.png,cable
+2762,Body Weight + Bench Dip On Floor,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/13991101-Bench-dip-on-floor_Upper-Arms_small.png,body weight
+5013,Cross Arms Push-Up,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/37841101-Cross-Arms-Push-up_Upper-Arms_small.png,unknown
+1497,Barbell + Hack Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00461101-Barbell-Hack-Squat_Hips_small.png,barbell
+1616,Cable + Hammer Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/01651101-Cable-Hammer-Curl-(with-rope)-m_Forearms_small.png,cable
+169,Dumbbell + Seated Front Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03921101-Dumbbell-Seated-Front-Raise_Shoulders_small.png,dumbbell
+118,Dumbbell + Bench Seated Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/02901101-Dumbbell-Bench-Seated-Press_Shoulders_small.png,dumbbell
+382,Barbell + Full Zercher Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/15451101-Barbell-full-Zercher-Squat_Thighs_small.png,barbell
+3916,Cable + Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/26781101-Cable-Bench-Press-(female)_Chest_small.png,cable
+113,Close-Grip Push-Up,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/02591101-Close-Grip-Push-up_Upper-Arms_small.png,unknown
+263,Body Weight + Triceps Dips Floor,full_bodyweight,triceps,https://apilyfta.com/static/GymvisualPNG/08151101-Triceps-Dips-Floor_Upper-Arms_small.png,body weight
+418,Dumbbell + Seated Hammer Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16781101-Dumbbell-Seated-Hammer-Curl_Upper-Arms_small.png,dumbbell
+3139,Leg Raise Hip Lift,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/18521101-Leg-Raise-Hip-Lift_Waist_small.png,unknown
+163,Dumbbell + Rear Lateral Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03801101-Dumbbell-Rear-Lateral-Raise_Shoulders_small.png,dumbbell
+1494,Barbell + Full Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00431101-Barbell-Full-Squat-(without-weight)_Thighs_small.png,barbell
+275,Lever Pec Deck Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/10301101-Lever-Pec-Deck-Fly_Chest_small.png,unknown
+5337,Weighted + Dead Bug,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/41271101-Weighted-Dead-Bug-(male)_Waist_small.png,weighted
+1678,Cable + Standing Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/02271101-Cable-Standing-Fly_Chest-FIX_small.png,cable
+5487,Neck Side Stretch,duration,neck,https://apilyfta.com/static/GymvisualPNG/42891101-Neck-Side-Stretch-(female)_Neck_small.png,unknown
+3439,Run On Treadmill,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/21971101-Run-on-Treadmill-(female)_Cardio_small.png,unknown
+1826,Dumbbell + Pullover,db_1_both_sides,chest,https://apilyfta.com/static/GymvisualPNG/03751101-Dumbbell-Pullover_Chest_small.png,dumbbell
+1713,Cross Body Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/02621101-Cross-Body-Crunch_waist_small.png,unknown
+204,Weighted + Lever Chest Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/05761101-Lever-Chest-Press-(plate-loaded)_Chest_small.png,weighted
+242,Smith Machine + Smith Chair Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/07501101-Smith-Chair-Squat_Thighs_small.png,smith machine
+241,Smith Machine + Smith Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/07481101-Smith-Bench-Press_Chest-FIX_small.png,smith machine
+13,Barbell + Drag Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/00381101-Barbell-Drag-Curl_Upper-Arms_small.png,barbell
+363,Smith Machine + Smith Front Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/14331101-Smith-Front-Squat-(Clean-Grip)_Thighs_small.png,smith machine
+14,Barbell + Front Chest Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00391101-Barbell-Front-Chest-Squat_Thighs_small.png,barbell
+417,Dumbbell + Seated Bicep Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16771101-Dumbbell-Seated-Bicep-Curl_Upper-Arms_small.png,dumbbell
+3554,Lever Rotary Calf,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/23151101-Lever-Rotary-Calf_Calves_small.png,unknown
+5217,Smith Machine + Smith Sumo Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/40051101-Smith-Sumo-Squat-(female)_Hips_small.png,smith machine
+27324,Barbell + Box Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/49621101-Barbell-Box-Squat_Hips_small.png,barbell
+1525,Barbell + Rack Pull,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00741101-Barbell-Rack-Pull_Hips-FIX_small.png,barbell
+38,Barbell + Seated Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/00881101-Barbell-Seated-Calf-Raise_Calves_small.png,barbell
+27405,Seated Chin Tuck,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/50631101-Seated-Chin-Tuck_Neck_small.png,unknown
+4851,Twisting Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/36211101-Twisting-Crunch-(Straight-Arms)-(male)_Waist_small.png,unknown
+4512,Smith Machine + Smith Full Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/32811101-Smith-Full-Squat_Thighs_small.png,smith machine
+3622,Sled Machine + Sled Hack Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/23841101-Sled-Hack-Squat-(female)_Thighs_small.png,sled machine
+2081,Mountain Climber,duration,cardio,https://apilyfta.com/static/GymvisualPNG/06301101-Mountain-Climber_Cardio-FIX_small.png,unknown
+27404,Lying Chin Tucks,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/50621101-Lying-Chin-Tucks_Neck_small.png,unknown
+2140,Seated Leg Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/06891101-Seated-Leg-Raise_waist_small.png,unknown
+219,Lever Seated Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/05961101-Lever-Seated-Fly_Chest_small.png,unknown
+4849,Smith Machine + Smith Leg Press,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/36191101-Smith-Leg-Press-(female)_Thighs_small.png,smith machine
+1639,Cable + Middle Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/01881101-Cable-Middle-Fly_Chest-FIX_small.png,cable
+1882,Dumbbell + Step-Up,db_2_alt_legs,hips,https://apilyfta.com/static/GymvisualPNG/04311101-Dumbbell-Step-up_Hips_small.png,dumbbell
+1655,Cable + Rear Drive,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/02041101-Cable-Rear-Drive_Upper-Arms_small.png,cable
+2000,Kettlebell + Swing,weight_reps,hamstring,https://apilyfta.com/static/GymvisualPNG/05491101-Kettlebell-Swing_Kettlebell_small.png,kettlebell
+107,Cable + Triceps Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/02411101-Cable-Triceps-Pushdown-(V-bar-attachment)_Upper-Arms_small.png,cable
+5129,Dumbbell + Low Fly,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/39111101-Dumbbell-Low-Fly_Chest_small.png,dumbbell
+123,Dumbbell + Close-Grip Press,db_1_both_sides,triceps,https://apilyfta.com/static/GymvisualPNG/02961101-Dumbbell-Close-grip-Press_Upper-Arms_small.png,dumbbell
+4348,Smith Machine + Smith Hip Thrust,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/31101101-Smith-Hip-Thrust_Hips_small.png,smith machine
+2206,Smith Machine + Smith Hack Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/07551101-Smith-Hack-Squat_Hips_small.png,smith machine
+1483,Barbell + Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00321101-Barbell-Deadlift_Hips-FIX2_small.png,barbell
+347,Cable + Lever Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/13501101-Lever-Seated-Row_Back_small.png,cable
+352,Barbell + Floor Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13701101-Barbell-Floor-Calf-Raise_Calves_small.png,barbell
+1698,Cable + Wrist Curl,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/02471101-Cable-Wrist-Curl_Forearm_small.png,cable
+295,Smith Machine + Smith Calf Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/11641101-Smith-Calf-Raise-(version-2)_Calves_small.png,smith machine
+2312,Cable + Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/08611101-Cable-seated-row_Back_small.png,cable
+1928,High Knee Skips,duration,cardio,https://apilyfta.com/static/GymvisualPNG/04771101-High-Knee-Skips_Cardio_small.png,unknown
+1929,High Knee Squat,weight_reps,cardio,https://apilyfta.com/static/GymvisualPNG/04781101-High-Knee-Squat_Cardio_small.png,unknown
+1618,Cable + High Row,weight_reps,back,"https://apilyfta.com/static/GymvisualPNG/01671101-Cable-High-Row-(kneeling,-rope-attachment)_Back_small.png",cable
+336,Cable + Rope Seated Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/13231101-Cable-Rope-Seated-Row_Back_small.png,cable
+2283,Weighted + Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08321101-Weighted-Crunch_waist_small.png,weighted
+2824,Cobra Yoga Pose,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/14821101-Cobra-Yoga-Pose_Waist_small.png,unknown
+2837,Oblique Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/14951101-Oblique-Crunch-(Version-2)_Waist_small.png,unknown
+1673,Cable + Side Bend,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/02221101-Cable-Side-Bend_Waist-FIX_small.png,cable
+114,Decline Push-Up,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/02791101-Decline-Push-Up-m_chest_small.png,unknown
+2592,Lying Leg Raise,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/11631101-Lying-Leg-Raise_Waist_small.png,unknown
+4906,Skip Jump Rope,duration,cardio,https://apilyfta.com/static/GymvisualPNG/36761101-Skip-Jump-Rope-(male)_Cardio_small.png,unknown
+4980,Reverse Push-Up,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/37511101-Reverse-Push-up_Upper-Arms_small.png,unknown
+409,Cable + Close Grip Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16301101-Cable-Close-Grip-Curl_Upper-Arms_small.png,cable
+5430,Tiger Tail Neck,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/42221101-Tiger-Tail-Neck_Neck_small.png,unknown
+1734,Diamond Push-Up,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/02831101-Diamond-Push-up_Upper-Arms-FIX_small.png,unknown
+1651,Cable + Pushdown,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/02001101-Cable-Pushdown-(with-rope-attachment)_Upper-Arms_small.png,cable
+4675,Dumbbell + Swing,db_1_both_sides,hamstring,https://apilyfta.com/static/GymvisualPNG/34451101-Dumbbell-Swing-(female)_Hips_small.png,dumbbell
+358,Smith Machine + Smith Toe Raise,weight_reps,calves,https://apilyfta.com/static/GymvisualPNG/13961101-Smith-Toe-Raise_Calves_small.png,smith machine
+3687,Decline Sit Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/24491101-Decline-Sit-up-(female)_Hips_small.png,unknown
+1746,Dumbbell + Clean,db_2_simultaneous,quadriceps,https://apilyfta.com/static/GymvisualPNG/02951101-Dumbbell-Clean_Thighs-FIX2_small.png,dumbbell
+2323,Reverse Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08721101-Reverse-Crunch-m_waist_small.png,unknown
+3717,Barbell + Lunge,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/24781101-Barbell-Lunge-(female)_Thighs_small.png,barbell
+1728,Decline Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/02771101-Decline-Crunch_waist_small.png,unknown
+3570,Wheel Roller + Wheel Rollout,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/23321101-Wheel-Rollout-(female)_Waist_small.png,wheel roller
+366,Barbell + High Bar Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/14361101-Barbell-High-Bar-Squat_Thighs_small.png,barbell
+2388,Calves Stretch,duration,calves,https://apilyfta.com/static/GymvisualPNG/09371101-Calves-stretch_Calves_small.png,unknown
+1827,Dumbbell + Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03761101-Dumbbell-Raise_Shoulders_small.png,dumbbell
+244,Smith Machine + Smith Deadlift,weight_reps,"hips, quadriceps",https://apilyfta.com/static/GymvisualPNG/07521101-Smith-Deadlift_Hips_small.png,smith machine
+1787,Dumbbell + Lunge,db_2_alt_legs,"hips, quadriceps",https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips-FIX_small.png,dumbbell
+5583,Body Weight + Hip Roll Plank,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/43851101-Hip-Roll-Plank_Waist_small.png,body weight
+4823,Barbell + Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/35931101-Barbell-Squat-(female)_Thighs_small.png,barbell
+1649,Cable + Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01981101-Cable-Pulldown_Back_small.png,cable
+209,Cable + Lever High Row,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/05811101-Lever-High-Row-(plate-loaded)_Back_small.png,cable
+1857,Dumbbell + Shrug,db_2_simultaneous,back,https://apilyfta.com/static/GymvisualPNG/04061101-Dumbbell-Shrug_Back-FIX_small.png,dumbbell
+206,Weighted + Lever Deadlift,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/05781101-Lever-Deadlift-(plate-loaded)_Thighs_small.png,weighted
+28,Barbell + One Leg Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00681101-Barbell-One-Leg-Squat_thighs_small.png,barbell
+89,Cable + Rear Pulldown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/02051101-Cable-Rear-Pulldown_Back_small.png,cable
+2138,Russian Twist,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/06871101-Russian-Twist_waist_small.png,unknown
+139,Dumbbell + Incline Raise,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03251101-Dumbbell-Incline-Raise_Shoulders_small.png,dumbbell
+365,Barbell + Low Bar Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/14351101-Barbell-Low-Bar-Squat_Thighs_small.png,barbell
+1894,Elbow-To-Knee,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/04431101-Elbow-to-Knee_waist_small.png,unknown
+1630,Cable + Low Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/01791101-Cable-Low-Fly_Chest-FIX_small.png,cable
+412,Cable + Overhead Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16361101-Cable-Overhead-Curl_Upper-Arms_small.png,cable
+27,Barbell + Lying Lifting,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00581101-Barbell-Lying-Lifting-(on-hip)_Hips_small.png,barbell
+1551,Barbell + Skier,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/01001101-Barbell-Skier_Shoulders_small.png,barbell
+2788,Wrist Circles,weight_reps,forearms,https://apilyfta.com/static/GymvisualPNG/14281101-Wrist-Circles_Forearms_small.png,unknown
+50,Barbell + Sumo Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/01171101-Barbell-Sumo-Deadlift_Hips_small.png,barbell
+1967,Jumping Jack,duration,cardio,https://apilyfta.com/static/GymvisualPNG/05161101-Jumping-Jack_Cardio_small.png,unknown
+2313,Cable + Twist,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08621101-Cable-twist-(up-down)_Waist_small.png,cable
+367,Dumbbell + Finger Curls,db_2_simultaneous,forearms,https://apilyfta.com/static/GymvisualPNG/14371101-Dumbbell-finger-curls_Hand_small.png,dumbbell
+100,Cable + Standing Fly,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/02271101-Cable-Standing-Fly_Chest_small.png,cable
+2670,Body Weight + Deep Push Up,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/12741101-Deep-Push-Up_Chest-FIX_small.png,body weight
+116,Dumbbell + Arnold Press,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/02871101-Dumbbell-Arnold-Press-II_Shoulders_small.png,dumbbell
+82,Cable + One Arm Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/01901101-Cable-One-Arm-Curl_Upper-Arms_small.png,cable
+1759,Dumbbell + Fly,db_2_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03081101-Dumbbell-Fly_Chest-FIX_small.png,dumbbell
+6,Barbell + Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/00311101-Barbell-Curl_Upper-Arms-FIX_small.png,barbell
+1725,Crunch Floor,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/02741101-Crunch-Floor-m_waist_small.png,unknown
+262,Body Weight + Triceps Dip,full_bodyweight,triceps,https://apilyfta.com/static/GymvisualPNG/08141101-Triceps-Dip_Upper-Arms_small.png,body weight
+258,Smith Machine + Smith Squat,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/07701101-Smith-Squat_Hips_small.png,smith machine
+2,Barbell + Bench Press,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/00251101-Barbell-Bench-Press_Chest-FIX_small.png,barbell
+190,Dumbbell + Upright Row,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/04371101-Dumbbell-Upright-Row_shoulder_small.png,dumbbell
+1916,Body Weight + Front Plank,duration,abs,https://apilyfta.com/static/GymvisualPNG/04651101-Front-Plank_Waist_small.png,body weight
+4275,Butt Kicks,duration,cardio,https://apilyfta.com/static/GymvisualPNG/30371101-Butt-Kicks-(male)_Cardio_small.png,unknown
+3715,3 4 Sit Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/24761101-3-4-Sit-up-(female)_Waist_small.png,unknown
+18,Barbell + Full Squat,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00431101-Barbell-Full-Squat_Thighs_small.png,barbell
+31,Barbell + Rear Lunge,weight_reps,quadriceps,https://apilyfta.com/static/GymvisualPNG/00781101-Barbell-Rear-Lunge_Thighs_small.png,barbell
+1589,Bottoms-Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/01381101-Bottoms-Up-m_waist_small.png,unknown
+2619,Push Press,weight_reps,shoulders,https://apilyfta.com/static/GymvisualPNG/12001101-Push-Press_Shoulders_small.png,unknown
+1452,3/4 Sit-Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/00011101-3-4-Sit-up_Waist_small.png,unknown
+2166,Body Weight + Side Plank,duration,abs,https://apilyfta.com/static/GymvisualPNG/07151101-Side-Plank-m_Waist_small.png,body weight
+292,Barbell + Hip Thrust,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/10601101-Barbell-Hip-Thrust_Hips_small.png,barbell
+4518,Body Weight + Elbow Dips,full_bodyweight,triceps,https://apilyfta.com/static/GymvisualPNG/32871101-Elbow-dips_Upper-arms_small.png,body weight
+2319,Cable + Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/08681101-Cable-Curl-(male)_Upper-Arms-FIX_small.png,cable
+4387,Chin Tuck,weight_reps,neck,https://apilyfta.com/static/GymvisualPNG/31491101-Chin-Tuck_Neck_small.png,unknown
+416,Dumbbell + High Curl,db_2_simultaneous,biceps,https://apilyfta.com/static/GymvisualPNG/16641101-Dumbbell-High-Curl_Upper-Arms_small.png,dumbbell
+4131,Scissors,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/28931101-Scissors-(advanced)-(female)_small.png,unknown
+1962,Jump Rope,duration,cardio,https://apilyfta.com/static/GymvisualPNG/05111101-Jump-Rope-(female)_Cardio-FIX_small.png,unknown
+2128,Body Weight + Ring Dips,full_bodyweight,triceps,https://apilyfta.com/static/GymvisualPNG/06771101-Ring-Dip_Upper-Arms-FIX_small.png,body weight
+56,Body Weight + Bench Dip,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/01291101-Bench-Dip-(knees-bent)_Upper-Arms_small.png,body weight
+111,Body Weight + Chest Dip,full_bodyweight,chest,https://apilyfta.com/static/GymvisualPNG/02511101-Chest-Dip_Chest_small.png,body weight
+411,Cable + Drag Curl,weight_reps,biceps,https://apilyfta.com/static/GymvisualPNG/16321101-Cable-Drag-Curl_Upper-Arms_small.png,cable
+7,Barbell + Deadlift,weight_reps,hips,https://apilyfta.com/static/GymvisualPNG/00321101-Barbell-Deadlift_Hips-FIX_small.png,barbell
+1454,Air Bike,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/00031101-air-bike-m_waist_FIX_small.png,unknown
+269,Cable + Kickback,weight_reps,triceps,https://apilyfta.com/static/GymvisualPNG/08601101-Cable-kickback_Upper-arms-FIX_small.png,cable
+88,Cable + Pushdown,weight_reps,back,https://apilyfta.com/static/GymvisualPNG/01991101-Cable-Pushdown-(straight-arm)-II_Back_small.png,cable
+162,Dumbbell + Rear Fly,db_2_simultaneous,shoulders,https://apilyfta.com/static/GymvisualPNG/03781101-Dumbbell-Rear-Fly_Shoulders_small.png,dumbbell
+3498,Walking,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/22581101-Walking_Cardio_small.png,unknown
+1594,Bridge,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/01431101-Bridge-(straight-arm)_Waist_small.png,unknown
+2186,Sit-Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/07351101-Sit-Up-II_waist_small.png,unknown
+1719,Crunch,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/02681101-Crunch-(leg-raise)_waist_small.png,unknown
+2092,Otis Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/06411101-Otis-Up_waist_small.png,unknown
+230,Push-Up,weight_reps,chest,https://apilyfta.com/static/GymvisualPNG/06621101-Push-up-m_Chest-FIX_small.png,unknown
+293,Burpee,duration,cardio,https://apilyfta.com/static/GymvisualPNG/11601101-Burpee_Cardio_small.png,unknown
+179,Dumbbell + Squat,db_2_simultaneous,"hips, quadriceps",https://apilyfta.com/static/GymvisualPNG/04131101-Dumbbell-Squat_Hips_small.png,dumbbell
+146,Dumbbell + Lunge,db_2_alt_legs,"hips, quadriceps",https://apilyfta.com/static/GymvisualPNG/03361101-Dumbbell-Lunge_Hips_small.png,dumbbell
+2135,Run,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/06841101-Run-(equipment)_Cardio_small.png,unknown
+2276,V-Up,weight_reps,abs,https://apilyfta.com/static/GymvisualPNG/08251101-V-up_Waist_small.png,unknown
+2136,Run,distance_duration,cardio,https://apilyfta.com/static/GymvisualPNG/06851101-Run_Cardio-FIX_small.png,unknown
