@@ -1,0 +1,63 @@
+exercise_id,exercise_name,exercise_type,body_part,exercise_image,equipment
+5162,Dumbbell + Seated Upright Alternate Squeeze Press,unilateral_alternating,chest,https://apilyfta.com/static/GymvisualPNG/39461101-Dumbbell-Seated-Upright-Alternate-Squeeze-Press_Chest_small.png,dumbbell
+2628,Cable + Twisting Standing One Arm Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/12111101-Cable-twisting-standing-one-arm-chest-press_chest_small.png,cable
+2796,Cable + Dumbbell Bent Arm Pullover Hold Isometric,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/14441101-Dumbbell-Bent-Arm-Pullover-Hold_Isometric_small.png,cable
+330,Smith Machine + Smith Wide Grip Decline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/13091101-Smith-Wide-Grip-Decline-Bench-Press_Chest_small.png,smith machine
+48265,Cable + Standing Alternate Chest Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/79871201-Cable-Standing-Alternate-Chest-Fly_Chest_GREEN.png,cable
+5569,Weighted + Lever Incline One Arm Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/43711101-Lever-Incline-One-Arm-Chest-Press-(plate-loaded)_Chest_small.png,weighted
+2802,Dumbbell + Flat Flye Hold Isometric,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/14501101-Dumbbell-Flat-Flye-Hold_Isometric_small.png,dumbbell
+5182,Dumbbell + Incline Around The World,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/39671101-Dumbbell-Incline-Around-the-World_Shoulders_small.png,dumbbell
+324,Cable + Standing Up Straight Crossovers,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/12691101-Cable-Standing-Up-Straight-Crossovers_Chest_small.png,cable
+1779,Dumbbell + Incline Shoulder Raise,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03281101-Dumbbell-Incline-Shoulder-Raise_chest_small.png,dumbbell
+4925,Dumbbell + Alternate Bench Press,unilateral_alternating,chest,https://apilyfta.com/static/GymvisualPNG/36951101-Dumbbell-Alternate-Bench-Press-(high-start)_Chest_small.png,dumbbell
+5088,Cable + Fly With Chest Supported,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/38681101-Cable-Fly-with-Chest-Supported_Chest_small.png,cable
+1775,Dumbbell + Incline Palm-In Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03241101-Dumbbell-Incline-Palm-in-Press_Chest_small.png,dumbbell
+3602,Body Weight + Assisted Wide-Grip Chest Dip,assisted_bodyweight,chest,https://apilyfta.com/static/GymvisualPNG/23641101-Assisted-Wide-Grip-Chest-Dip-(kneeling)_Chest_small.png,body weight
+3680,Cable + Upper Chest Crossovers,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/24421101-Cable-Upper-Chest-Crossovers-(female)_Chest_small.png,cable
+4911,Dumbbell + Squeeze Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/36811101-Dumbbell-Squeeze-Bench-Press_Chest_small.png,dumbbell
+27745,Cable + Low Chest Press (Male),bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/58141101-Cable-Low-Chest-Press-(male)_Chest_small.png,cable
+1752,Dumbbell + Decline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03011101-Dumbbell-Decline-Bench-Press_Chest-FIX_small.png,dumbbell
+5208,Dumbbell + Push-Up Front Raise,unilateral_alternating,chest,https://apilyfta.com/static/GymvisualPNG/39931101-Dumbbell-Push-up-Front-Raise_Chest_small.png,dumbbell
+329,Smith Machine + Smith Wide Grip Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/13081101-Smith-Wide-Grip-Bench-Press_Chest_small.png,smith machine
+1498,Barbell + Incline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/00471101-Barbell-Incline-Bench-Press_Chest-FIX_small.png,barbell
+47587,Cable + Single Arm Crossover,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/69491201-Cable-Single-Arm-Crossover-(male)_Chest_GREEN.png,cable
+326,Weighted + Lever Incline Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/12991101-Leverage-Incline-Chest-Press_Chest_small.png,weighted
+247,Smith Machine + Smith Incline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/07571101-Smith-Incline-Bench-Press_Chest-FIX_small.png,smith machine
+327,Weighted + Lever Decline Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/13001101-Lever-Decline-Chest-Press_Chest_small.png,weighted
+245,Smith Machine + Smith Decline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/07531101-Smith-Decline-Bench-Press_Chest_small.png,smith machine
+4953,Barbell + Floor Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/37241101-Barbell-Floor-Chest-Press_Chest_small.png,barbell
+27367,Barbell + Pause Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/50131101-Barbell-Pause-Bench-Press_Chest_small.png,barbell
+27756,Weighted + Lever Incline Fly (Male),bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/58431101-Lever-Incline-Fly-(male)_Chest_small.png,weighted
+3407,Cable + Seated Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/21441101-Cable-Seated-Chest-Press_Chest_small.png,cable
+5421,Weighted + Lever Banded Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/42131101-Lever-Banded-Chest-Press_Chest_small.png,weighted
+1573,Barbell + Wide Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/01221101-Barbell-Wide-Bench-Press_Chest_small.png,barbell
+11,Barbell + Decline Wide-Grip Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/00361101-Barbell-Decline-Wide-grip-Press_Chest_small.png,barbell
+286,Weighted + Lever Lying Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/10411101-Lever-Lying-Chest-Press-(plate-loaded)_Chest_small.png,weighted
+5374,Dumbbell + Devils Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/41641101-Dumbbell-Devils-Press_Plyometric_small.png,dumbbell
+117,Dumbbell + Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/02891101-Dumbbell-Bench-Press_Chest_small.png,dumbbell
+129,Dumbbell + Decline Hammer Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03031101-Dumbbell-Decline-Hammer-Press_Chest_small.png,dumbbell
+5540,Dumbbell + Twisted Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/43421101-Dumbbell-Twisted-Fly_Chest_small.png,dumbbell
+1770,Dumbbell + Incline Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03191101-Dumbbell-Incline-Fly_Chest-FIX_small.png,dumbbell
+127,Dumbbell + Decline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03011101-Dumbbell-Decline-Bench-Press_Chest_small.png,dumbbell
+136,Dumbbell + Incline Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03141101-Dumbbell-Incline-Bench-Press_Chest_small.png,dumbbell
+1476,Barbell + Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/00251101-Barbell-Bench-Press_Chest-FIX2_small.png,barbell
+1460,Body Weight + Assisted Chest Dip,assisted_bodyweight,chest,https://apilyfta.com/static/GymvisualPNG/00091101-Assisted-Chest-Dip-(kneeling)_Chest_small.png,body weight
+404,Dumbbell + Reverse Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/16241101-Dumbbell-Reverse-Bench-Press_Chest_small.png,dumbbell
+298,Dumbbell + Lying Hammer Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/11771101-Dumbbell-Lying-Hammer-Press-(version-2)_Chest_small.png,dumbbell
+3916,Cable + Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/26781101-Cable-Bench-Press-(female)_Chest_small.png,cable
+275,Leverage Machine + Lever Pec Deck Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/10301101-Lever-Pec-Deck-Fly_Chest_small.png,leverage machine
+1678,Cable + Standing Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/02271101-Cable-Standing-Fly_Chest-FIX_small.png,cable
+1826,Cable + Dumbbell Pullover,unilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03751101-Dumbbell-Pullover_Chest_small.png,cable
+204,Leverage Machine + Lever Chest Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/05761101-Lever-Chest-Press-(plate-loaded)_Chest_small.png,leverage machine
+241,Smith Machine + Smith Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/07481101-Smith-Bench-Press_Chest-FIX_small.png,smith machine
+219,Leverage Machine + Lever Seated Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/05961101-Lever-Seated-Fly_Chest_small.png,leverage machine
+1639,Cable + Middle Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/01881101-Cable-Middle-Fly_Chest-FIX_small.png,cable
+5129,Dumbbell + Low Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/39111101-Dumbbell-Low-Fly_Chest_small.png,dumbbell
+114,Weighted + Decline Push-Up,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/02791101-Decline-Push-Up-m_chest_small.png,weighted
+1630,Cable + Low Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/01791101-Cable-Low-Fly_Chest-FIX_small.png,cable
+100,Cable + Standing Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/02271101-Cable-Standing-Fly_Chest_small.png,cable
+2670,Body Weight + Deep Push Up,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/12741101-Deep-Push-Up_Chest-FIX_small.png,body weight
+1759,Dumbbell + Fly,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/03081101-Dumbbell-Fly_Chest-FIX_small.png,dumbbell
+2,Barbell + Bench Press,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/00251101-Barbell-Bench-Press_Chest-FIX_small.png,barbell
+111,Body Weight + Chest Dip,bodyweight_full,chest,https://apilyfta.com/static/GymvisualPNG/02511101-Chest-Dip_Chest_small.png,body weight
+230,Weighted + Push-Up,bilateral_simultaneous,chest,https://apilyfta.com/static/GymvisualPNG/06621101-Push-up-m_Chest-FIX_small.png,weighted

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fitness Dataset Viewer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Open Sans', sans-serif;
+      padding: 20px;
+    }
+    select {
+      padding: 5px;
+      font-size: 16px;
+      margin-right: 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+    table {
+      width: 100%;
+      border-collapse: separate;
+      border-spacing: 0;
+      margin-top: 20px;
+      overflow-x: auto;
+      display: block;
+      white-space: nowrap;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+      vertical-align: top;
+    }
+    thead tr:first-child th:first-child { border-top-left-radius: 12px; }
+    thead tr:first-child th:last-child { border-top-right-radius: 12px; }
+    tbody tr:last-child td:first-child { border-bottom-left-radius: 12px; }
+    tbody tr:last-child td:last-child { border-bottom-right-radius: 12px; }
+    td:nth-child(3) {
+      white-space: normal;
+      word-wrap: break-word;
+      max-width: 200px;
+    }
+    img {
+      max-width: 128px;
+      width: 128px;
+      height: auto;
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Fitness Dataset Viewer</h2>
+
+  <label for="modeSelect">Order by</label>
+  <select id="modeSelect" onchange="updateFileOptions()">
+    <option value="bodypart">Body Part</option>
+    <option value="equipment">Equipment</option>
+  </select>
+
+  <select id="csvSelect" onchange="loadCSV()">
+    <option value="">Choose a dataset</option>
+  </select>
+
+  <table id="exerciseTable">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Type</th>
+        <th>Body Part</th>
+        <th>Image</th>
+        <th>Equipment</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  <script>
+    const datasets = {
+      bodypart: [
+        'dataset_abs.csv', 'dataset_back.csv', 'dataset_biceps.csv', 'dataset_calves.csv',
+        'dataset_cardio.csv', 'dataset_chest.csv', 'dataset_forearms.csv', 'dataset_hamstring.csv',
+        'dataset_hips.csv', 'dataset_neck.csv', 'dataset_quadriceps.csv',
+        'dataset_shoulders.csv', 'dataset_triceps.csv'
+      ],
+      equipment: [
+        'dataset_dumbbell.csv', 'dataset_barbell.csv', 'dataset_body_weight.csv', 'dataset_cable.csv',
+        'dataset_ez_barbell.csv', 'dataset_kettlebell.csv', 'dataset_leverage_machine.csv',
+        'dataset_sled_machine.csv', 'dataset_smith_machine.csv', 'dataset_trap_bar.csv',
+        'dataset_unknown.csv', 'dataset_weighted.csv'
+      ]
+    };
+
+    function updateFileOptions() {
+      const mode = document.getElementById('modeSelect').value;
+      const csvSelect = document.getElementById('csvSelect');
+      csvSelect.innerHTML = '<option value="">Choose a dataset</option>';
+
+      datasets[mode].forEach(file => {
+        const option = document.createElement('option');
+        option.value = file;
+        option.textContent = file.replace('dataset_', '').replace('.csv', '').replace(/_/g, ' ').toUpperCase();
+        csvSelect.appendChild(option);
+      });
+    }
+
+    function loadCSV() {
+      const mode = document.getElementById('modeSelect').value;
+      const filename = document.getElementById("csvSelect").value;
+      if (!filename) return;
+
+      const folder = mode === 'bodypart' ? 'dataset_by_bodypart' : 'dataset_by_equipment';
+
+      fetch(`${folder}/${filename}`)
+        .then(res => res.text())
+        .then(csvData => {
+          const parsed = Papa.parse(csvData, {
+            header: true,
+            skipEmptyLines: true
+          });
+
+          const tbody = document.querySelector('#exerciseTable tbody');
+          tbody.innerHTML = '';
+
+          const sortBy = mode === 'bodypart' ? 'equipment' : 'body_part';
+
+          parsed.data.sort((a, b) => {
+            const valA = (a[sortBy] || '').toLowerCase();
+            const valB = (b[sortBy] || '').toLowerCase();
+            return valA.localeCompare(valB, undefined, { sensitivity: 'base' });
+          });
+
+          parsed.data.forEach((row, index) => {
+            if (!row.exercise_id) return;
+
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+              <td>${index + 1}</td>
+              <td>${row.exercise_id}</td>
+              <td>${row.exercise_name}</td>
+              <td>${row.exercise_type}</td>
+              <td>${row.body_part}</td>
+              <td><img src="${row.exercise_image}" alt="img"></td>
+              <td>${row.equipment}</td>
+            `;
+            tbody.appendChild(tr);
+          });
+        });
+    }
+
+    // Inisialisasi awal
+    updateFileOptions();
+  </script>
+
+</body>
+</html>
