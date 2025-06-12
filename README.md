@@ -17,10 +17,6 @@
 | `secondary_muscle`  | string      | Otot pendukung spesifik (opsional) |
 | `movement_type`     | string      | Compound / Isolation / Cardio |
 | `equipment`         | string[]    | Alat yang digunakan, bisa lebih dari satu |
-| `rep_range`         | string      | Contoh: "8-12" |
-| `rest_range`        | string      | Contoh: "60-90" (detik) |
-| `duration_range`    | string      | Contoh: "30-60" (detik), khusus cardio |
-| `grip_type`         | string      | Contoh: overhand, underhand, hammer, alternate, diamond |
 | `image_url`         | string      | URL gambar latihan |
 
 ---
@@ -35,7 +31,6 @@
 | `gender`           | string      | male / female |
 | `weight_kg`        | float       | Berat badan |
 | `height_cm`        | float       | Tinggi badan |
-| `experience_level` | string      | Beginner / Intermediate |
 | `injuries`         | string[]    | Cedera atau area yang harus dihindari |
 
 ---
@@ -49,7 +44,6 @@ Data yang dikirim user saat ingin membuat rencana latihan baru.
 | `plan_name`          | string      | Nama rencana latihan (input) |
 | `available_days`     | int         | Jumlah hari latihan per minggu (1–5) |
 | `goals`              | string      | (Opsional) Muscle Gain / Fat Loss / Maintenance |
-| `duration_per_day`   | int (menit) | (Opsional) Default: 30–180 menit |
 | `preferred_equipment`| string[]    | (Opsional) Alat yang tersedia. Jika kosong, semua alat diperbolehkan |
 | `preferred_body_part`| string[]    | (Opsional) Area tubuh yang ingin difokuskan |
 
@@ -65,7 +59,7 @@ Output berupa format JSON. Bisa mingguan (jika ≥2 hari tersedia) atau berskala
 
 ```json
 {
-  "routines_id" : 8 digit random
+  "routines_id" : 8-digit-random
   "plan_name": "Build Strength Routine",
   "creator": "username"
   "split_type": "Push Pull Legs",
