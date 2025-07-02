@@ -19,7 +19,6 @@
 | 15  |             | erector spinae         | erector spinae                       |        |
 | 16  | abs         | rectus abdominis       | rectus abdominis                     | <img src="https://learn.athleanx.com/wp-content/uploads/2010/05/abdominal-muscle-anatomy-rectus-abdominis-obliques-serratus.jpg" width="300"/> |
 | 17  |             | obliques               | obliques                     |        |
-| 19  |             | transverse abdominis   | transversus abdominis                |        |
 | 20  |             | serratus               | serratus anterior                    |        |
 | 21  | biceps      | biceps brachii         | biceps brachii                       | <img src="https://biqbandtraining.com/wp-content/uploads/2020/07/MuscleMapBicepsCurl-Details2.svg" width="300"/> |
 | 22  |             | brachialis             | brachialis                           |        |
