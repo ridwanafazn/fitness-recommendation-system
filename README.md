@@ -41,3 +41,47 @@
 | 39  | calves      | gastrocnemius          | gastrocnemius                        | <img src="https://bod-blog-assets.prod.cd.beachbodyondemand.com/bod-blog/wp-content/uploads/2022/05/20105755/how-to-slim-calves-calf-muscles.jpeg" width="300"/> |
 | 40  |             | soleus                 | soleus                               |        |
 | 41  | cardio      | cardio                 | cardiovascular system                | <img src="https://www.cardiosecur.com/fileadmin/content/Fachartikel/Cardiovascular_system_EN_2.jpg" width="300"/> |
+
+# Simplified Gym Muscle Glossary
+
+| no. | body part   | gym muscle name        |
+|-----|-------------|------------------------|
+| 1   | neck        | sternocleidomastoid    |
+| 2   |             | splenius capitis       |
+| 3   |             | splenius cervicis      |
+| 4   | shoulders   | front deltoids         |
+| 5   |             | side deltoids          |
+| 6   |             | rear deltoids          |
+| 7   | chest       | upper chest            |
+| 8   |             | middle chest           |
+| 9   |             | lower chest            |
+| 10  | back        | upper traps            |
+| 11  |             | lower traps            |
+| 12  |             | rotator cuff           |
+| 13  |             | teres major            |
+| 14  |             | lats                   |
+| 15  |             | erector spinae         |
+| 16  | abs         | rectus abdominis       |
+| 17  |             | obliques               |
+| 20  |             | serratus               |
+| 21  | biceps      | biceps brachii         |
+| 22  |             | brachialis             |
+| 23  | triceps     | long head              |
+| 24  |             | lateral head           |
+| 25  |             | medial head            |
+| 26  | forearms    | brachioradialis        |
+| 27  |             | flexors                |
+| 28  |             | extensors              |
+| 29  | glutes      | gluteus maximus        |
+| 30  |             | gluteus medius         |
+| 31  |             | gluteus minimus        |
+| 32  | quadriceps  | rectus femoris         |
+| 33  |             | vastus lateralis       |
+| 34  |             | vastus medialis        |
+| 35  |             | vastus intermedius     |
+| 36  | hamstrings  | biceps femoris         |
+| 37  |             | semitendinosus         |
+| 38  |             | semimembranosus        |
+| 39  | calves      | gastrocnemius          |
+| 40  |             | soleus                 |
+| 41  | cardio      | cardio                 |
