@@ -11,12 +11,12 @@
 |---------------------|-------------|-----------|
 | `exercise_id`       | string      | ID unik untuk latihan |
 | `exercise_name`     | string      | Nama latihan |
-| `exercise_type`     | string      | Gaya eksekusi (e.g. bilateral_simultaneous) |
-| `body_part`         | string      | Area tubuh (e.g. chest, legs) |
+| `body_part`         | string      | Area tubuh (e.g. chest, shoulder) |
+| `equipment`         | string[]    | Alat yang digunakan, bisa lebih dari satu |
 | `primary_muscle`    | string      | Otot utama spesifik (e.g. anterior deltoid) |
 | `secondary_muscle`  | string      | Otot pendukung spesifik (opsional) |
+| `exercise_type`     | string      | Gaya eksekusi (e.g. bilateral_simultaneous) |
 | `movement_type`     | string      | Compound / Isolation / Cardio |
-| `equipment`         | string[]    | Alat yang digunakan, bisa lebih dari satu |
 | `image_url`         | string      | URL gambar latihan |
 
 ---
@@ -31,7 +31,7 @@
 | `gender`           | string      | male / female |
 | `weight_kg`        | float       | Berat badan |
 | `height_cm`        | float       | Tinggi badan |
-| `injuries`         | string[]    | Cedera atau area yang harus dihindari |
+| `injuries`         | string[]    | Cedera (body part/muscle part) yang harus dihindari |
 
 ---
 
@@ -43,11 +43,11 @@ Data yang dikirim user saat ingin membuat rencana latihan baru.
 |----------------------|-------------|------------|
 | `plan_name`          | string      | Nama rencana latihan (input) |
 | `available_days`     | int         | Jumlah hari latihan per minggu (1–5) |
-| `goals`              | string      | (Opsional) Muscle Gain / Fat Loss / Maintenance |
+| `goals`              | string      | (Opsional) Muscle Gain / Fat Loss |
 | `preferred_equipment`| string[]    | (Opsional) Alat yang tersedia. Jika kosong, semua alat diperbolehkan |
 | `preferred_body_part`| string[]    | (Opsional) Area tubuh yang ingin difokuskan |
 
-> ⚠️ Sistem akan menentukan split style, metode set, dan menghindari otot berdasarkan `injuries`. User tidak memilih split maupun metode latihan.
+> ⚠️ Sistem akan menentukan split style, metode set, dan menghindari otot berdasarkan `injuries`. User tidak memilih split maupun metode latihan, itu akan direkomendasikan engine.
 
 ---
 
@@ -59,7 +59,7 @@ Output berupa format JSON. Bisa mingguan (jika ≥2 hari tersedia) atau berskala
 
 ```json
 {
-  "routines_id" : 8-digit-random
+  "routines_id" : uuid
   "plan_name": "Build Strength Routine",
   "creator": "username"
   "split_type": "Push Pull Legs",
@@ -80,7 +80,6 @@ Output berupa format JSON. Bisa mingguan (jika ≥2 hari tersedia) atau berskala
           "equipment": ["barbell"],
           "rep_range": "6-10",
           "rest_range": "90-120",
-          "grip_type": "normal",
           "image_url": "https://link.to/image.jpg"
         },
         {
@@ -94,7 +93,6 @@ Output berupa format JSON. Bisa mingguan (jika ≥2 hari tersedia) atau berskala
           "equipment": ["dumbbell"],
           "rep_range": "12-15",
           "rest_range": "45-60",
-          "grip_type": "neutral",
           "image_url": "https://link.to/image2.jpg"
         }
       ]
