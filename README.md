@@ -85,3 +85,22 @@
 | 39  | calves      | gastrocnemius          |
 | 40  |             | soleus                 |
 | 41  | cardio      | cardio                 |
+
+# Opsi Split Method
+
+| split_method  | deskripsi_singkat                                          |
+|---------------|-----------------------------------------------------------|
+| fullbody      | latihan seluruh tubuh di setiap sesi (umumnya 2–3x/minggu) |
+| upperlower    | latihan tubuh bagian atas & bawah secara bergantian       |
+| ppl           | latihan dorong, tarik, dan kaki (biasanya 6x/minggu)       |
+
+---
+
+# Opsi Set Method
+
+| set_method    | deskripsi_singkat                                                      |
+|---------------|------------------------------------------------------------------------|
+| normal        | set biasa, 1 latihan diselesaikan beberapa set sebelum pindah latihan  |
+| superset      | dua latihan dilakukan berturut-turut tanpa jeda (biasanya otot berlawanan) |
+| dropset       | latihan hingga gagal, lalu kurangi beban dan lanjutkan tanpa istirahat |
+| pyramid       | repetisi turun & beban naik per set, atau sebaliknya                   |
