@@ -104,3 +104,18 @@
 | superset      | dua latihan dilakukan berturut-turut tanpa jeda (biasanya otot berlawanan) |
 | dropset       | latihan hingga gagal, lalu kurangi beban dan lanjutkan tanpa istirahat |
 | pyramid       | repetisi turun & beban naik per set, atau sebaliknya                   |
+
+
+# Daftar Equipment Gym
+
+| no. | equipment           | no. | equipment             |
+|-----|---------------------|-----|------------------------|
+| 1   | dumbbell            | 10  | chest press machine    |
+| 2   | barbell             | 11  | exercise bike          |
+| 3   | body weight         | 12  | trap bar               |
+| 4   | cable               | 13  | wheel roller           |
+| 5   | smith machine       | 14  | ez barbell             |
+| 6   | leverage machine    | 15  | sled machine           |
+| 7   | weighted            | 16  | rope                   |
+| 8   | kettlebell          | 17  | elliptical machine     |
+| 9   | treadmill           |     |                        |
