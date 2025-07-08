@@ -120,6 +120,7 @@
 | 8   | kettlebell          | 17  | elliptical machine     |
 | 9   | treadmill           |     |                        |
 
+# Muscle List of Split Methode
 | Split Method    | Gym Muscle Name                                          |
 |-----------------|---------------------------------------------------------|
 | **Fullbody**    | sternocleidomastoid, splenius capitis, splenius cervicis, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus, biceps brachii, brachialis, long head, lateral head, medial head, brachioradialis, flexors, extensors, gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
