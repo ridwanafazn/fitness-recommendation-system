@@ -120,14 +120,16 @@
 | 8   | kettlebell          | 17  | elliptical machine     |
 | 9   | treadmill           |     |                        |
 
-# Muscle List of Split Methode
-| Split Method    | Gym Muscle Name                                          |
-|-----------------|---------------------------------------------------------|
-| **Fullbody**    | sternocleidomastoid, splenius capitis, splenius cervicis, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus, biceps brachii, brachialis, long head, lateral head, medial head, brachioradialis, flexors, extensors, gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
-| **Upper**       | sternocleidomastoid, splenius capitis, splenius cervicis, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus, biceps brachii, brachialis, long head, lateral head, medial head, brachioradialis, flexors, extensors |
-| **Lower**       | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
-| **Push**        | front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, long head, lateral head, medial head |
-| **Pull**        | upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, biceps brachii, brachialis, brachioradialis, flexors, extensors |
-| **Legs**        | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
-| **Male Focus**  | biceps brachii, brachialis, long head, lateral head, medial head, front deltoids, side deltoids, rear deltoids |
-| **Female Focus**| gluteus maximus, gluteus medius, gluteus minimus, rectus abdominis, obliques, serratus |
+# Muscle List of Split Method
+
+| Split Method    | Body Part List                                            | Gym Muscle Name                                                                                                   |
+|-----------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Fullbody**    | neck, shoulders, chest, back, abs, biceps, triceps, forearms, glutes, quadriceps, hamstrings, calves | sternocleidomastoid, splenius capitis, splenius cervicis, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus, biceps brachii, brachialis, long head, lateral head, medial head, brachioradialis, flexors, extensors, gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
+| **Upper**       | neck, shoulders, chest, back, abs, biceps, triceps, forearms | sternocleidomastoid, splenius capitis, splenius cervicis, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus, biceps brachii, brachialis, long head, lateral head, medial head, brachioradialis, flexors, extensors |
+| **Lower**       | glutes, quadriceps, hamstrings, calves                    | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
+| **Push**        | shoulders, chest, triceps                                 | front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, long head, lateral head, medial head |
+| **Pull**        | back, biceps, forearms                                    | upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, biceps brachii, brachialis, brachioradialis, flexors, extensors |
+| **Legs**        | glutes, quadriceps, hamstrings, calves                    | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
+| **Male Focus**  | biceps, triceps, shoulders                                | biceps brachii, brachialis, long head, lateral head, medial head, front deltoids, side deltoids, rear deltoids |
+| **Female Focus**| glutes, abs                                               | gluteus maximus, gluteus medius, gluteus minimus, rectus abdominis, obliques, serratus |
+
