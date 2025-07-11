@@ -130,6 +130,5 @@
 | **Push**        | shoulders, chest, triceps                                 | front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, long head, lateral head, medial head |
 | **Pull**        | back, biceps, forearms                                    | upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, biceps brachii, brachialis, brachioradialis, flexors, extensors |
 | **Legs**        | glutes, quadriceps, hamstrings, calves                    | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, gastrocnemius, soleus |
-| **Male Focus**  | biceps, triceps, shoulders                                | biceps brachii, brachialis, long head, lateral head, medial head, front deltoids, side deltoids, rear deltoids |
-| **Female Focus**| glutes, abs                                               | gluteus maximus, gluteus medius, gluteus minimus, rectus abdominis, obliques, serratus |
-
+| **Male Focus**  | chest, shoulders, biceps, triceps, back, abs              | biceps brachii, brachialis, long head, lateral head, medial head, front deltoids, side deltoids, rear deltoids, upper chest, middle chest, lower chest, upper traps, lower traps, rotator cuff, teres major, lats, erector spinae, rectus abdominis, obliques, serratus |
+| **Female Focus**| glutes, quadriceps, hamstrings, abs                       | gluteus maximus, gluteus medius, gluteus minimus, rectus femoris, vastus lateralis, vastus medialis, vastus intermedius, biceps femoris, semitendinosus, semimembranosus, rectus abdominis, obliques, serratus |
