@@ -2,9 +2,7 @@
 
 - **Rule-based System**: Python `experta`
 - **Optimization Algorithm**: Genetic Algorithm dengan Python `pygad`
-
 ---
-
 ## 📁 1. Dataset Latihan (Fitness Knowledge Base)
 
 | Kolom               | Tipe Data   | Deskripsi |
@@ -27,7 +25,6 @@
 |--------------------|-------------|-----------|
 | `user_id`          | string      | ID unik user |
 | `username`         | string      | Username, tidak perlu nama asli |
-| `age`              | int         | Usia |
 | `gender`           | string      | male / female |
 | `weight_kg`        | float       | Berat badan |
 | `height_cm`        | float       | Tinggi badan |
@@ -41,31 +38,26 @@ Data yang dikirim user saat ingin membuat rencana latihan baru.
 
 | Kolom                | Tipe Data   | Keterangan |
 |----------------------|-------------|------------|
-| `plan_name`          | string      | Nama rencana latihan (input) |
 | `available_days`     | int         | Jumlah hari latihan per minggu (1–5) |
 | `goals`              | string      | (Opsional) Muscle Gain / Fat Loss |
 | `preferred_equipment`| string[]    | (Opsional) Alat yang tersedia. Jika kosong, semua alat diperbolehkan |
 | `preferred_body_part`| string[]    | (Opsional) Area tubuh yang ingin difokuskan |
 
 > ⚠️ Sistem akan menentukan metode split, dan menghindari otot berdasarkan `injuries`. User tidak memilih split, itu akan direkomendasikan engine.
-
 ---
 
 ## 📦 4. Format Output Rencana Latihan
 
 Output berupa format JSON. Dengan menu latihan mingguan.
 
-### Contoh Output JSON
+### Contoh Output
 
 ```json
 {
-  "routines_id" : uuid
-  "plan_name": "Build Strength Routine",
-  "creator": "username"
   "split_type": "Push Pull Legs",
   "days": [
     {
-      "day": integer,
+      "day": day_1,
       "day_focus": "push",
       "exercises": [
         {
@@ -85,7 +77,7 @@ Output berupa format JSON. Dengan menu latihan mingguan.
       "exercises": [ /* ... */ ]
     },
     {
-      "day": integer,
+      "day": day_2,
       "day_focus": "leg",
       "exercises": [ /* ... */ ]
     }
